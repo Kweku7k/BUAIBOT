@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BU Chat</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+
+</head>
+
+<body>
+    <div>
+        <h4 style="color: white;">BU Chat</h4>
+        <h6 style="color: white;">By Nana Kweku Adumatta</h6>
+    </div>
+    <div id="chat-box"></div>
+    <div id="input-container">
+        <input type="text" id="query" placeholder="Ask something...">
+        <button id="send">Ask BU</button>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const queryInput = document.getElementById("query");
+            const chatBox = document.getElementById("chat-box");
+            const sendButton = document.getElementById("send");
+
+            function appendMessage(sender, message, className) {
+                const msgDiv = document.createElement("div");
+                msgDiv.className = `message ${className}`;
+                msgDiv.innerHTML = `${message}`;
+                chatBox.appendChild(msgDiv);
+                chatBox.scrollTop = chatBox.scrollHeight;
+            }
+
+            async function sendMessage() {
+                const query = queryInput.value.trim();
+                if (!query) return;
+                appendMessage("User", query, "user");
+                queryInput.value = "";
+
+                try {
+                    const response = await fetch("http://localhost:5000/query", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ query_text: query })
+                    });
+                    if (!response.ok) throw new Error("Network response was not ok");
+                    const data = await response.json();
+                    appendMessage("AI", data.response || "No response.", "ai");
+                } catch (error) {
+                    appendMessage("AI", "Error fetching response.", "ai");
+                }
+            }
+
+            sendButton.addEventListener("click", sendMessage);
+            queryInput.addEventListener("keypress", function (event) {
+                if (event.key === "Enter") sendMessage();
+            });
+        });
+    </script>
+</body>
+
+</html>

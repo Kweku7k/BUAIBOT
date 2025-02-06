@@ -1,0 +1,51 @@
+from flask import Flask,render_template,request
+from create_db_hg import generate_data_store
+from process_service import process_query
+from scrape import clean_body_content, extract_body_content, scrape_website, split_dom_content
+
+app=Flask(__name__)
+
+@app.route('/',methods=['GET','POST'])
+def home():
+    if request.method=='POST':
+        # Handle POST Request here
+        
+        # collect array of boston websites
+        websites = request.get_json()['websites']
+        
+        # call function to get the content of the websites
+        with open(f'websites.txt', 'w') as f:
+            for w in websites:
+                dom_content = scrape_website(w)
+                body_content = extract_body_content(dom_content)
+                cleaned_content = clean_body_content(body_content)
+                # write cleaned content to a file
+                f.write(cleaned_content)
+        
+        # re write into md file
+        with open(f'websites.txt', 'r') as f:
+            cleaned_content = f.read()
+            # write cleaned content to a file
+            with open(f'data/websites.md', 'w') as f:
+                f.write(cleaned_content)
+                
+        # generate data store
+        generate_data_store()
+        
+        # break content into 
+        return websites
+    return websites
+
+@app.route('/query', methods=['GET', 'POST'])
+def query():
+    query_text = request.get_json()['query_text']
+    response = process_query(query_text)
+    return {"response": response}
+
+@app.route('/chat', methods=['GET', 'POST'])
+def chat():
+    return render_template('index.html')
+
+if __name__ == '__main__':
+    #DEBUG is SET to TRUE. CHANGE FOR PROD
+    app.run(port=5000,debug=True)
