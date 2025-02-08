@@ -1,9 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.options import Options
 import time
 from bs4 import BeautifulSoup
 
-def scrape_website(website):
+def scrape_website_chromedriver(website):
     """
     Scrapes the HTML content from a given website using Chrome WebDriver.
     
@@ -28,7 +29,28 @@ def scrape_website(website):
     
     finally:
         driver.quit()
-        
+      
+      
+def scrape_website(website):
+    """
+    Scrapes the HTML content from a given website using Selenium's built-in driver management.
+    """
+    print("Launching Chrome browser")
+    
+    options = Options()
+    options.add_argument("--headless")  # Run in headless mode
+    options.add_argument("--disable-gpu")  # For better stability
+
+    driver = webdriver.Chrome(service=ChromeService(), options=options)
+    
+    try:
+        driver.get(website)
+        print("Page Loaded...")
+        html = driver.page_source
+        return html
+    finally:
+        driver.quit()
+          
 def extract_body_content(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     body_content = soup.find('body')
