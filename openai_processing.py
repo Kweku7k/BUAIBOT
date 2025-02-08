@@ -1,8 +1,8 @@
+import os
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.prompts import ChatPromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.vectorstores import Chroma
-import os
 
 CHROMA_PATH = "chroma"
 
