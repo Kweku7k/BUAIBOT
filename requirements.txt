@@ -7,3 +7,6 @@ lxml
 html5lib
 python-dotenv
 flask
+chromadb
+openai
+tiktoken

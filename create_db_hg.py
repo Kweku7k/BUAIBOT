@@ -1,7 +1,8 @@
-from langchain_community.document_loaders import DirectoryLoader
+from langchain.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 import os
 import shutil
@@ -32,6 +33,7 @@ def split_text(documents: list[Document]):
         length_function=len,
         add_start_index=True,
     )
+    
     chunks = text_splitter.split_documents(documents)
     print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
 
@@ -43,18 +45,21 @@ def split_text(documents: list[Document]):
     return chunks
 
 
-def save_to_chroma(chunks: list[Document]):
+def save_to_chroma(chunks: list[Document], model='openai'):
     """Saves document chunks to a Chroma vector database using Hugging Face embeddings."""
     # Clear out the database first
     if os.path.exists(CHROMA_PATH):
         shutil.rmtree(CHROMA_PATH)
 
-    # Initialize Hugging Face embeddings
-    hf_embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    if model == 'openai':
+        embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")  
+    else:
+        # Initialize Hugging Face embeddings
+        embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
     # Create a new DB from the documents
     db = Chroma.from_documents(
-        chunks, hf_embeddings, persist_directory=CHROMA_PATH
+        chunks, embeddings, persist_directory=CHROMA_PATH
     )
     db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")

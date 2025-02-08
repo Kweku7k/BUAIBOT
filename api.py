@@ -1,7 +1,7 @@
 from flask import Flask,render_template,request
 from create_db_hg import generate_data_store
-from process_service import process_query
-from scrape import clean_body_content, extract_body_content, scrape_website, split_dom_content
+from openai_processing import process_query
+from scrape import clean_body_content, extract_body_content, scrape_website
 
 app=Flask(__name__)
 
@@ -40,7 +40,9 @@ def home():
 def query():
     query_text = request.get_json()['query_text']
     response = process_query(query_text)
-    return {"response": response}
+    print("response")
+    print(response)
+    return {"response": response.content}
 
 @app.route('/chat', methods=['GET', 'POST'])
 def chat():
