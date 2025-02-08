@@ -10,13 +10,13 @@ import shutil
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
 
-def main():
-    generate_data_store()
+# def main():
+#     generate_data_store()
 
-def generate_data_store():
+def generate_data_store(model="openai",clear_database=True):
     documents = load_documents()
     chunks = split_text(documents)
-    save_to_chroma(chunks)
+    save_to_chroma(chunks,model,clear_database)
 
 def load_documents():
     """Loads markdown files from the specified directory."""
@@ -45,11 +45,12 @@ def split_text(documents: list[Document]):
     return chunks
 
 
-def save_to_chroma(chunks: list[Document], model='openai'):
+def save_to_chroma(chunks: list[Document], model='openai', clear_database=True):
     """Saves document chunks to a Chroma vector database using Hugging Face embeddings."""
     # Clear out the database first
-    if os.path.exists(CHROMA_PATH):
-        shutil.rmtree(CHROMA_PATH)
+    if clear_database:
+        if os.path.exists(CHROMA_PATH):
+            shutil.rmtree(CHROMA_PATH)
 
     if model == 'openai':
         embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")  

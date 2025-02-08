@@ -7,7 +7,7 @@ import os
 CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
-You are a helpful and engaging assistant. Use the following context to answer the user's question naturally and conversationally. If the context is unclear, rely on general knowledge to provide a thoughtful response.
+You are a helpful and engaging assistant. Use the following context to answer the user's question naturally and conversationally. If the context is unclear, rely on general knowledge about Boston University Metropolitan College.
 
 Context:
 {context}
@@ -75,7 +75,7 @@ def process_query(query_text="Where is the school located?"):
         print(first_score)
 
         # Filter out low-relevance results
-        if first_score < 0.07:
+        if first_score < 0.7:
             print("No results with sufficient relevance found.")
             return
 

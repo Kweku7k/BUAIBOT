@@ -61,7 +61,7 @@ def extract_body_content(html_content):
 def clean_body_content(body_content):
     soup = BeautifulSoup(body_content, 'html.parser')
     
-    for script_or_style in soup(["script", "style"]):
+    for script_or_style in soup(["script", "style", "header", "footer", "nav"]):
         script_or_style.extract()
         
     cleaned_content = soup.get_text(separator="\n")

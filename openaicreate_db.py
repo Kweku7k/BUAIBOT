@@ -1,10 +1,10 @@
+import os
+import shutil
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
-import os
-import shutil
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
@@ -12,10 +12,10 @@ DATA_PATH = "data"
 def main():
     generate_data_store()
 
-def generate_data_store():
+def generate_data_store(clear_database = True):
     documents = load_documents()
     chunks = split_text(documents)
-    save_to_chroma(chunks)
+    save_to_chroma(chunks, clear_database)
 
 def load_documents():
     """Loads markdown files from the specified directory."""
@@ -41,12 +41,17 @@ def split_text(documents: list[Document]):
 
     return chunks
 
-def save_to_chroma(chunks: list[Document]):
+def save_to_chroma(chunks: list[Document], clear_database):
     """Saves document chunks to a Chroma vector database using OpenAI embeddings."""
+    
     # Clear out the database first
     if os.path.exists(CHROMA_PATH):
-        shutil.rmtree(CHROMA_PATH)
-
+        if clear_database:
+            shutil.rmtree(CHROMA_PATH)
+            print("Clearing Chroma Database")
+        else:
+            print("Uploading new files to chroma database")
+            
     # Initialize OpenAI embeddings
     openai_embeddings = OpenAIEmbeddings(
         model="text-embedding-ada-002"  # Use OpenAI's embedding model

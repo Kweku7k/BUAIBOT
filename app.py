@@ -12,6 +12,7 @@ def home():
         
         # collect array of boston websites
         websites = request.get_json()['websites']
+        clear_database = request.get_json()['clear_database']
         
         # call function to get the content of the websites
         with open(f'websites.txt', 'w') as f:
@@ -30,7 +31,9 @@ def home():
                 f.write(cleaned_content)
                 
         # generate data store
-        generate_data_store()
+
+        generate_data_store(clear_database=clear_database)
+            
         
         # break content into 
         return websites

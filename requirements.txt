@@ -11,3 +11,5 @@ chromadb
 openai
 tiktoken
 uwsgi
+unstructured
+"unstructured[md]"
