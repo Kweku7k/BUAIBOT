@@ -4,6 +4,7 @@ from openai_processing import process_query
 from scrape import clean_body_content, extract_body_content, scrape_website
 
 app=Flask(__name__)
+CORS(app) 
 
 @app.route('/',methods=['GET','POST'])
 def home():
