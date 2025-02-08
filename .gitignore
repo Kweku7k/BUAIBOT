@@ -1,2 +1,5 @@
 chroma
 data
+__pycache__
+venv
+websites.txt
