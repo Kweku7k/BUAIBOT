@@ -2,9 +2,10 @@ from flask import Flask,render_template,request
 from create_db_hg import generate_data_store
 from openai_processing import process_query
 from scrape import clean_body_content, extract_body_content, scrape_website
+from flask_cors import CORS  # Add this import
 
 app=Flask(__name__)
-CORS(app) 
+CORS(app)
 
 @app.route('/',methods=['GET','POST'])
 def home():
