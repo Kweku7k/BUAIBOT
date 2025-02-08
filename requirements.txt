@@ -10,3 +10,4 @@ flask
 chromadb
 openai
 tiktoken
+uwsgi

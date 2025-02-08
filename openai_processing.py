@@ -14,6 +14,7 @@ Context:
 
 Now, respond in a friendly and engaging way:
 """
+
 def get_embeddings():
     """Returns an embedding model (OpenAI) compatible with Chroma."""
     return OpenAIEmbeddings(model="text-embedding-ada-002")  # OpenAI's embedding model
