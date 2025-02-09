@@ -76,7 +76,7 @@ def process_query(query_text="Where is the school located?"):
         # FIXED: Validate that score threshold is met before proceeding
         if first_score > 0.7:
             print("No results with sufficient relevance found.")
-            return
+            return "I apologize, but I don't have enough relevant information to answer your question accurately. Please email metadmin@bu.edu for more specific information about your query."
 
         # FIXED: Ensure doc.page_content exists
         context_text = "\n\n---".join([doc.page_content if hasattr(doc, "page_content") else str(doc) for doc, _score in results])
