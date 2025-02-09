@@ -75,9 +75,9 @@ def process_query(query_text="Where is the school located?"):
         print(first_score)
 
         # Filter out low-relevance results
-        if first_score < 0.5:
-            print("No results with sufficient relevance found.")
-            return
+        # if first_score < 0.7:
+        #     print("No results with sufficient relevance found.")
+        #     return "No results with sufficient relevance found."
 
         # Extract context text from retrieved documents
         context_text = "\n\n---".join([doc.page_content if hasattr(doc, "page_content") else str(doc) for doc, _score in results])
@@ -93,7 +93,7 @@ def process_query(query_text="Where is the school located?"):
         # Ensure response is valid before proceeding
         if not response_text:
             print("Failed to generate a response.")
-            return
+            return "Failed to generate a response."
 
         # Extract sources
         sources = [doc.metadata.get("source", "Unknown") for doc, _score in results]

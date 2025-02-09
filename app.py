@@ -47,7 +47,8 @@ def query():
     response = process_query(query_text)
     print("response")
     print(response)
-    return {"response": response.content}
+    if response.content:  
+        return {"response": response.content}
 
 @app.route('/chat', methods=['GET', 'POST'])
 def chat():
