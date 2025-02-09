@@ -75,7 +75,7 @@ def process_query(query_text="Where is the school located?"):
         print(first_score)
 
         # Filter out low-relevance results
-        if first_score < 0.7:
+        if first_score < 0.5:
             print("No results with sufficient relevance found.")
             return
 
