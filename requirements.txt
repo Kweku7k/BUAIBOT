@@ -12,4 +12,5 @@ openai
 tiktoken
 uwsgi
 unstructured
-
+flask-cors
+langchain-community

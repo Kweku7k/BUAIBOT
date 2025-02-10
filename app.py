@@ -50,10 +50,7 @@ def query():
     response = process_query(query_text)
     print("response")
     print(response)
-    if response.content:  
-        return {"response": response.content}
-    else:
-        return {"response":response}
+    return {"response":response}
 
 @app.route('/chat', methods=['GET', 'POST'])
 def chat():
