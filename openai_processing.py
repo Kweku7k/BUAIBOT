@@ -100,7 +100,7 @@ def process_query(query_text="Where is the school located?"):
         formatted_response = f"Response: {response_text}\nSource: {sources}"
         print("formatted_response")
         print(formatted_response)
-        return response_text
+        return response_text.content
 
     except Exception as e:
         print(f"An unexpected error occurred: {str(e)}")
