@@ -55,8 +55,7 @@ def process_query(query_text="Where is the school located?"):
 
         # Handle case where no results are found
         if not results:
-            print("No relevant results found.")
-            return
+            return "I apologize, but I don't have enough relevant information to answer your question accurately. Please email metadmin@bu.edu for more specific information about your query."
 
         print("----RESULTS----")
         print(results)
