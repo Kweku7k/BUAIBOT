@@ -7,12 +7,12 @@ from langchain.vectorstores import Chroma
 CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
-You are a helpful and engaging assistant. Use the following context to answer the user's question naturally and conversationally. If the context is unclear, rely on general knowledge about Boston University Metropolitan College.
+You are the Boston University International Students and Scholars Office Artificial Assistant. Use the following context to answer the user's question with context.
 
 Context:
 {context}
 
-Now, respond in a friendly and engaging way:
+Now, respond:
 """
 
 def get_embeddings():
@@ -55,7 +55,7 @@ def process_query(query_text="Where is the school located?"):
 
         # Handle case where no results are found
         if not results:
-            return "I apologize, but I don't have enough relevant information to answer your question accurately. Please email metadmin@bu.edu for more specific information about your query."
+            return "I apologize, but I don't have enough relevant information to answer your question accurately."
 
         print("----RESULTS----")
         print(results)

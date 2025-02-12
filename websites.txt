@@ -1,851 +1,499 @@
-How Long Does a Master’s in Computer Science Take to Complete—and What is the Cost?
-Back to Programs
-Computer Science & IT
-Pursuing an education as an adult presents distinct challenges. How do you earn a graduate degree while tending to the demands of your profession, your family, and your limited free time? How do you afford it—and how big a bite will it take out of your time? At Boston University’s Metropolitan College (MET), there are options that enable you to balance an education with the demands of life.
-Master’s degree programs at BU’s Metropolitan College have been carefully designed to provide flexible modes of study within the parameters of a rigorous education. That means you have more control over how long you choose to take to complete a program, and whether to pursue it as a full-time or part-time student—a calculation that plays a role in how much a degree at BU MET might cost.
-Take BU MET’s
-Master of Science in Computer Science
-. A good percentage of our students work full time in the technology industry while pursuing their degree part-time, so they depend on a computer science curriculum that is both rigorous and flexible. These software developers, information security analysts, network administrators, database developers, data analysts, IT project managers, and health informatics professionals benefit from BU MET’s convenient evening courses and learn from expert faculty who understand the challenges of balancing an education with a demanding job and a home life. Meanwhile, invaluable industry connections are made in the classroom—one of the perks of studying alongside other working professionals.
-BU MET has a long history—over half a century—supporting nontraditional learners from diverse walks of life in pursuit of their education. The College offers a variety of ways you can tailor your program to suit the needs and demands of your own life. Practically speaking, you can choose to enroll in courses offered during the fall, spring, and summer terms. Whether you pursue your course of study full-time or part-time is your choice, based on what works best for you.
-How Many Years Will It Take to Earn a Computer Science Master’s at BU?
-The short answer is that it depends. Will you pursue this evening computer science program part-time or full-time? Will you take courses every semester—spring, summer, and fall—or will you take a break from your studies between terms? At BU’s Metropolitan College, these are all decisions you can make based on what works best for you.
-The 40-credit MS in Computer Science at Boston University can be completed in 12 months of full-time study, and as few as 20 months as a part-time student.
-Owing to busy schedules, some part-time students require more flexibility than others, and may elect to take as much as six years to complete their master’s degree.
-Learn more about the
-Master of Science in Computer Science
-How Much Will It Cost to Earn BU’s MS in Computer Science?
-The cost of earning a master’s degree in Computer Science at Boston University is directly related to whether you study full- or part-time. Either way, a BU degree is an investment that will pay great dividends. A degree from Boston University not only adds shine to your résumé, it is a credential that is trusted by employers and higher ed institutions alike. Whether you’re looking to advance your career, change your profession, or continue your scholarship in a PhD program, a degree from BU will make greater successes that much more attainable.
-Metropolitan College tuition is set annually by the Trustees of Boston University and can differ from semester to semester and year to year. For updated costs, visit BU MET’s
-Tuition and Financial Aid
-page.
-Cost for Part-Time Graduate Study at BU MET
-Part-time tuition rates at BU MET provide an affordable pathway to a BU education. Part-time graduate students are enrolled in no more than 11.5 credits per semester (at 12 credits or more, you are considered full-time).
-As a part-time student, courses numbered 600–999 cost $975 per credit and courses numbered 100–599 cost $550 per credit
-, unless otherwise noted.
-Cost for Full-Time Graduate Study at BU MET
-As a full-time student, you are enrolled in a minimum of 12 credits per semester, and will pay a commensurate full-time Boston University tuition. Currently, BU’s full-time tuition rates stand at $33,335 per semester. Pursuing more than 18 credits in a single semester will lead to an additional charge of $2,083 per credit.
-To see what you can expect to pay for the master’s program as a part-time student, look at the “Cost” section of the
-MS in Computer Science page
+What to Expect When You Enter the U.S.
+Once you have obtained your visa, you are ready to travel to the US  Visit the
+US Customs and Border Protection website
+for details regarding preparing to enter the US and what to bring
+Bring all of your immigration documents that pertain to your status, and keep these documents with you at all times during your travel. Do not leave any of these documents in your luggage as you will need to present them for inspection at the US port of entry before you can pick up your luggage in the US
+Applying for “Admission”
+When you arrive, you will apply for official “admission” to the US in a particular immigration classification at a U.S. port of entry. A US Customs and Border Protection (USCBP) officer will examine the following documents:
+Passport (valid for at least six months beyond your date of entry to the US)
+Valid visa that reflects your intended academic activities in the U.S.
+All immigration documents [Form I-20(s) for F-1 students, Form DS-2019(s) for J-1 students and scholars, I-797B for H-1Bs, etc.]
+You may also need to present all or some of the documents required to apply for your visa:
+Letter of admission or appointment/employment from Boston University
+Proof of F or J SEVIS fee payment
+Original financial documents
+Documents as a continuing student or scholar demonstrating your valid immigration status and your continued academic activities in the U.S.
+Tips
+The USCBP officer will ask you a few questions about why you’re traveling to or returning to the U.S. You should explain that you’re traveling to BU to study, conduct research, teach, or work, as appropriate. If you are asked about the funds that will pay for your stay, answer the question and offer to show the officer your financial documents. If you are asked about your “intentions”, answer the questions and be sure to remind the officer that you intend to return home after you complete your academic activities.
+Provided you present the proper documents and the USCBP officer is satisfied with your answers, the officer will “admit” you to the U.S. in a particular visa classification. The officer will update your U.S. Department of Homeland Security entry record electronically to reflect the:
+Day you entered the U.S.
+Immigration status in which you have been admitted to the U.S.
+Expiration date of this status (“D/S” reflects duration of status for F-1s, J-1s, and their dependent family members
+or
+a specific date for all other classifications)
+ISSO recommends that throughout the duration of your stay in the U.S., each time you enter the U.S. from international travel that you retrieve the electronic I-94 record to confirm you have been accurately admitted to the U.S. in the correct status and save or print your entry information from the
+CBP website
 .
-Financial Assistance at BU MET
-Along with
-Federal Unsubsidized Loans
-,
-Graduate PLUS Loans
-, and
-Military Veteran Benefits
-, BU MET offers a wide variety of financial assistance opportunities that you may be able to take advantage of.
-Merit Scholarships
-To recognize exceptional academic and professional accomplishments, MET offers merit scholarships of $3,000–$5,000 toward tuition and fees to eligible students admitted to a graduate degree program. Awards are based on the strength of each applicant’s academic qualifications and professional experience. Recipients are notified within their admission letter, with awards disbursed in even installments for each course of enrollment toward master’s degree requirements. Students must maintain a 3.0 GPA and good academic standing to maintain their merit scholarship award.
-Learn more about Merit Scholarships.
-Graduate Assistantships
-Assistantships are available for Metropolitan College graduate students through individual academic departments or programs—an excellent opportunity to work with full-time faculty members through teaching, research, or other scholarly activities. Graduate degree candidates who are in good standing with a cumulative GPA of 3.0 and who are registered for at least one course are eligible to apply. Assistantships are applied on a semester basis and typically range from 3 to 20 hours per week, allowing students to earn up to $5,500 per semester (paid in weekly installments) to assist with living expenses.
-Learn more about Graduate Assistantships at BU MET.
-Alexis Gavras Scholarship Fund
-The
-Alexis Gavras Scholarship Fund
-was established at Boston University’s Metropolitan College thanks to a generous gift from Haralambos Gavras, MD, and Irene Gavras, MD, in memory of their son and BU MET alum, Alexis (CAS’93, MET’04). This scholarship is for native or self-identified Greek graduate students who completed their bachelor’s at the University of Patras in Greece, or any other accredited Greek college or university, and for Greek-American undergraduates who completed their undergraduate degree at any accredited college or university. Eligible students in BU MET master’s degree programs may apply for this award.
-Boston Medical Center Employee Scholarship
-If you’re eligible for benefits as an employee at Boston Medical Center (BMC), this scholarship provides a 50 percent reduction on tuition and can be applied to graduate programs at BU Metropolitan College.
-Learn more about the Boston Medical Center Employee Scholarship.
-Boston University Women’s Guild Scholarships
-These scholarships provide both aid and encouragement to women 30 and over enrolled in Boston University graduate programs. You do not need to be a US citizen or enrolled full time to be eligible for a
-Women’s Guild Scholarship
+When you leave the inspection area, make certain you have all of your immigration documents in your possession.
+It’s important to enter the U.S. in the visa classification that best supports your academic activities in the U.S. In most cases, you should not enter the U.S. on a B-1/B-2 visitor status, nor in WT/WB status through the “visa waiver” program, as the visitor status does not support most academic activities and it is difficult and sometimes impossible to change your immigration status after you have entered the U.S.
+Checking Your Documents upon Re-Entry
+Each time you re-enter the U.S. from outside of North America, you will be issued an I-94 entry record with the most recent date of entry, class of admission (F-1, J-1, H-1, etc.), and expiration date. It’s important that you check this electronic I-94 carefully for errors at the port of entry. If there are errors, respectfully notify the official of the error and request a correction.
+Missing Documentation
+If a U.S. Customs and Border Protection officer determines that your documentation is incomplete when entering the U.S., you may be issued a Form I-515A and a date-specific passport stamp. These documents will grant you temporary admission to the U.S. (generally for 30 days). If you receive a Form I-515A, you must contact the ISSO immediately as additional documentation from the ISSO is often required in order to respond to the I-515A by the deadline. ISSO will guide you on what steps to take based on your specific situation and documentation from CBP. Failure to submit the proper original documentation prior to the expiration date of your passport stamp will result in the termination of both your F-1 student status and your Student and Exchange Visitor Information System (SEVIS) record.
+If you notice any errors on your passport entry stamp after you have departed the U.S. port of entry, contact the ISSO.
+Secondary Inspection
+Most F-1 or J-1 visa holders will clear U.S. immigration after your documents are reviewed by a CBP officer. However, in some cases you may be referred to another officer to verify your immigration status or for additional questioning. This is referred to as “
+secondary inspection
+”. Although a referral to secondary inspection can make you feel nervous, it does not necessarily mean you will be denied entry. Be aware that it can take a while to complete this inspection process.
+If the CBP officer has questions that can be answered by ISSO, please ask the officer if they would like to call ISSO for confirmation. During office hours, you may give the officer the number for the ISSO front desk at 617-353-3565. After hours please have the officer call the number listed in SEVIS for the PDSO.
+Applying for U.S. Visa
+Entering the U.S.
+Traveling During your Program
+Helpful Links
+Payroll Office (BU Employees)
+Student Employment Office
+Office of the University Registrar
+University Service Center
+Student Central
+Office of Housing
+Office of Housing Resources, Medical Campus
+Welcome, New Students!
+Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
+Photo by Jackie Riccardi
+ISSO News
+Immigration-Related Activity Under the Second Trump Administration
+January 21, 2025
+Spring 2025 Workshops
+December 4, 2024
+Spring 2025 Student Reminders
+December 4, 2024
+USCIS Premium Processing Fee Increases
+January 3, 2024
+ISSOPortal is Live for Student Immigration Processing!
+November 27, 2023
+BU Global News
+Dispatches from Abroad: International Students on Life at Home
+April 17, 2020
+Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
+April 17, 2020
+Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
+April 17, 2020
+Virtual Coffee & Conversation: Adapting to a New Reality
+March 20, 2020
+Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
+March 13, 2020
+Boston University
+Global Programs
+Study Abroad
+International Students & Scholars Office
+Center for English Language & Orientation Programs
+Notice of NondiscriminationTraveling with a US Visa
+Many students and scholars take the opportunity to travel home—or to another country—during their time in the US. While you can make plans to depart the US at any time, you need to make certain that you have the
+appropriate documentation
+to return to the US to resume your activities. The information below will help facilitate your return to the US.
+Check Your Visa(s)
+The visa in your passport, listing your immigration status, permits you to re-enter the US. It does not grant permission to enter a third country (a country that is not the US or your home country). If you are traveling to a third country, you may need a visa to enter that country.
+Please bear in mind that the ISSO can only advise on re-entry to the US; we cannot advise on visas going to third countries. We recommend that you contact the embassy or consulate of the country you will be traveling to and ask for specific information about visa requirements for citizens from your home country.
+Returning from Canada, Mexico, or Adjacent Islands with an Expired US Visa
+F and J nonimmigrants who travel to Canada, Mexico, or the adjacent islands (except for Cuba) may return to the US using an
+expired
+US visa. This rule is known as Automatic Visa Revalidation. To successfully use Automatic Visa Revalidation, travelers must have previously entered the US in a nonimmigrant visa category, and must be maintaining valid nonimmigrant status.  You can read more about Automatic Visa Revalidation on the
+Department of State website
+.  Customs and Border Protection also provides information
+on their website
 .
-The Bryan D. Willard Scholarship
-Established in memory of Marine Captain Bryan Willard, this scholarship is available to graduate students who are members or veterans of the armed forces who have been awarded a Purple Heart for a wound received while in combat. Spouses and children of veterans killed in the line of duty are also eligible and encouraged to apply. To learn more,
-visit the Bryan D. Willard Scholarship page
+For all other visa categories, Automatic Visa Revalidation does not apply. All other visa categories must have a
+valid and current
+US visa stamp in order to re-enter the US.
+If you have questions about safely re-entering the US from Canada, Mexico, or the adjacent islands using Automatic Visa Revalidation, please consult with the ISSO before you depart Boston.
+Please see the US Immigration and Customs Enforcement website for a complete list of the
+adjacent islands
 .
-City of Boston Scholar Program
-Scholarships are available to City of Boston employees taking courses at Boston University towards master’s degrees and graduate certificates through the City of Boston Scholar Program. To learn more,
-visit BU MET’s City of Boston Scholar Program page
+Exceptions to the Automatic Visa Revalidation Rule
+Individuals who apply for a new visa stamp:
+If you plan to apply for a nonimmigrant visa stamp at a US embassy or consulate in a contiguous territory (Canada, Mexico, or the adjacent islands), you will not be eligible to return to the US under Automatic Visa Revalidation. Instead, you must wait for the new visa to be approved and then return to the US under the new visa. If your visa application is denied, you will be required to travel elsewhere (most likely to your home country) to apply again for a US visa stamp before you may return to the US.
+Scholars in H-1B status can use Automatic Visa Revalidation for travel to Canada, Mexico, and US territories
+only:
+H-1B employees with expired visas should pay particular attention to their travel itineraries to ensure that they will travel only to Canada, Mexico, or a
+US-owned territory
+. H-1B employees cannot use Automatic Visa Revalidation for travel to any other location.
+Citizens of certain countries are not eligible for Automatic Visa Revalidation:
+If you are a citizen of a country identified by the Department of State as a state that sponsors terrorism, you are not eligible for Automatic Visa Revalidation. Currently, this list includes Iran, North Korea, Sudan, Syria, and Cuba. The countries included on this list are subject to change, and you can find an updated list on the
+Department of State’s website
 .
-Visit the Boston University
-Metropolitan College scholarships
-page for information on all scholarships available to graduate students.
-Transferable Credits
-There are other ways to manage your time and costs in pursuing a computer science graduate program at BU MET. Those who bring external graduate expertise to their degree program may petition to transfer up to two approved graduate level courses (8 credits) to the Computer Science master’s degree requirements, provided they have earned at least a B. Credit transfer is dependent on course hours. Official transcripts from an accredited institution, course descriptions, and syllabi must be submitted for transfer credit to be considered.
-Graduate Certificate Programs in Information Technology
-For some, the pathway to a computer science master’s degree at BU MET starts with a four-course IT graduate certificate (or two). This is especially true if you want to build a little flexibility into your educational plans. Credits earned in the following four-course graduate certificates at BU’s Metropolitan College can be transferred into the master’s degree in Computer Science program:
-Advanced Information Technology
-Computer Networks
-Data Analytics
-Database Management & Business Intelligence
-Digital Forensics
-Health Informatics
-Information Security
-IT Project Management
-Medical Information Security & Privacy
-Software Engineering
-Web Application Development
-In most cases, Boston University’s IT graduate certificates can be completed online or on campus in as few as 8 to 12 months.
-A BU Education is Within Reach
-Metropolitan College was established at Boston University in 1965 in order to ensure that adult learners had access to a prestigious Boston University education though flexible learning options and affordable tuition. Many students at BU MET are working professionals; as such, they earn their degree or certificate while working part-time or full-time. That reality often dictates how much time a student can commit to graduate study each term. For those studying part-time, BU MET offers competitive tuition that brings a BU education within reach.
-At the same time, Metropolitan College offers opportunities for full-time study for those who wish to commit as much time as possible to their courses each semester. Full-time options are also excellent for
-international students
-who must maintain F-1 visa status in order to study in the US.
-Learn more about
-Computer Science & IT programs at Boston University’s Metropolitan College.
-What is the ultimate cost and duration of the program? You’ll have to decide that for yourself, depending on the specific way you manage and complete your requirements. After all, when you choose to earn a degree at Metropolitan College, you opt for the path of self-determination.
-Connect with Us
-Apply
-Request Information
-Meet An Advisor
-What to Read Next: MET Computer Science & IT Knowledge Center
-How Long Does a Master’s in Computer Science Take to Complete—and What is the Cost?
-Why Get a Master’s Degree in Computer Science at BU MET?
-What Do My Career Options Look Like with a Master’s in Computer Science from BU’s Metropolitan College?
-Are There Different Computer Science Graduate Programs or Specializations at BU?
-Back to top
-Chat with us
-, powered by
-LiveChatMS in Software Development
-Back to Programs
-Careers
-Curriculum
-Faculty
-Cost
-Apply Now
-Request Information
-Are You Ready to Lead a Software Development Team to Success?
-Available online and on campus, the Master of Science in Software Development (MSSD) at Boston University’s Metropolitan College (MET) prepares you with the essential skillset to succeed in one of the fastest-growing professions: software developer—ranked the #1 Best Technology Job in 2020 by
-U.S. News & World Report
+Citizens of Mexico and adjacent islands:
+Citizens of Mexico and countries of the adjacent islands may or may not be eligible for Automatic Visa Revalidation when traveling to their home country, depending on their individual circumstances. Citizens of Mexico and the adjacent islands
+can
+use Automatic Visa Revalidation when traveling to Canada.
+Maintaining Status during Cruise Trips
+If you plan to take a cruise, please bear in mind that the cruise ship may cross international borders. You should make certain to carry the same
+appropriate documentation
+as if you were returning from an international trip. Although some cruise companies require only copies of immigration documents, US immigration policies requires that you present original documents.
+Applying for U.S. Visa
+Entering the U.S.
+Traveling During your Program
+Current Travel Advisory
+Helpful Links
+Payroll Office (BU Employees)
+Student Employment Office
+Office of the University Registrar
+University Service Center
+Student Central
+Office of Housing
+Office of Housing Resources, Medical Campus
+Welcome, New Students!
+Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
+Photo by Jackie Riccardi
+ISSO News
+Immigration-Related Activity Under the Second Trump Administration
+January 21, 2025
+Spring 2025 Workshops
+December 4, 2024
+Spring 2025 Student Reminders
+December 4, 2024
+USCIS Premium Processing Fee Increases
+January 3, 2024
+ISSOPortal is Live for Student Immigration Processing!
+November 27, 2023
+BU Global News
+Dispatches from Abroad: International Students on Life at Home
+April 17, 2020
+Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
+April 17, 2020
+Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
+April 17, 2020
+Virtual Coffee & Conversation: Adapting to a New Reality
+March 20, 2020
+Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
+March 13, 2020
+Boston University
+Global Programs
+Study Abroad
+International Students & Scholars Office
+Center for English Language & Orientation Programs
+Notice of NondiscriminationExiting BU
+While we hate to see you go and hope you have had a great experience here at BU, at some point, we expect that you will be moving on to other things.  Before you leave, it is important to have an understanding, not only about what you may need to take care of before you transition away from BU, but also what you may or may not be able to do once your program at BU ends.
+Whether you plan to return to your home country, transfer to another degree program or move on to employment elsewhere in the U.S., you want to insure that you do this without effecting your immigration status in the U.S.  Perhaps you you just want to take some time for some personal travel within the U.S. or you have set up some job interviews after graduation and you are concerned about the timing or whether and not you can stay here while you are seeking employment.
+We recommend that you review this information carefully so that you’ll be able to plan the next step in your academic or professional career.  Please note that you should plan well in advance, as not all transitions can happen quickly and some require more time.
+Whatever it is you are doing and wherever you are going, we wish you the best of luck!
+Completing your program, employment or activity
+Grace Periods
+Transferring from BU
+Preparing for your departure
+Forms
+End of Employment Notification
+Helpful Links
+Payroll Office (BU Employees)
+Student Employment Office
+Office of the University Registrar
+University Service Center
+Student Central
+Office of Housing
+Office of Housing Resources, Medical Campus
+Welcome, New Students!
+Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
+Photo by Jackie Riccardi
+ISSO News
+Immigration-Related Activity Under the Second Trump Administration
+January 21, 2025
+Spring 2025 Workshops
+December 4, 2024
+Spring 2025 Student Reminders
+December 4, 2024
+USCIS Premium Processing Fee Increases
+January 3, 2024
+ISSOPortal is Live for Student Immigration Processing!
+November 27, 2023
+BU Global News
+Dispatches from Abroad: International Students on Life at Home
+April 17, 2020
+Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
+April 17, 2020
+Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
+April 17, 2020
+Virtual Coffee & Conversation: Adapting to a New Reality
+March 20, 2020
+Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
+March 13, 2020
+Boston University
+Global Programs
+Study Abroad
+International Students & Scholars Office
+Center for English Language & Orientation Programs
+Notice of NondiscriminationGrace Periods
+Depending on your current immigration classification, you may be eligible to stay in the U.S. for a designated period of time after your program completion date; this is called a “grace period”. Grace periods can be helpful as they give you some extra time to prepare for the next phase of your life and to take care of certain events (e.g., transferring between schools, changing your status, starting a new appointment, or preparing to depart the US).
+It’s important to know whether your immigration classification allows for a grace period, and to be mindful of when your legal status in the U.S. will end.
+Classifications with a Grace Period
+F-1 Student Classification
+F-1 students have a grace period of 60 days. This grace period begins on the day that you complete your program, regardless of the expiration date noted on your I-20.  If you will remain in the U.S. to take advantage of your OPT benefit, your 60 day grace period will begin the day after your OPT expiration.  Note that once you depart the US during the 60-day grace period, you cannot re-enter the US in F-1 status with the Form I-20 issued for the program you just completed. Therefore, it’s important to be aware of your official program end date.
+Grace periods also apply to any dependents in F-2 status.
+The 60 day grace period is NOT available to F-1 students who do not complete their program of study. If you obtain prior ISSO authorization for withdrawal or leave of absence, you are given a 15 day grace period that starts on the day you are no longer enrolled.
+If you withdraw from classes without prior ISSO authorization, you are not eligible for a grace period and must depart the U.S. immediately.
+J-1 Classification
+J-1 Exchange Visitors, regardless of category have a grace period of 30 days.  This 30 days starts on the last day of your studies, employment or other activity at BU, regardless of the end date listed on your form DS-2019.  If you will remain in the U.S. to take advantage of your Academic Training (AT) benefit, your 30 day grace period will begin the day after your AT expiration.
+Grace periods also apply to any dependents in J-2 status.
+The 30-day grace period is
+not
+available to students who do not complete their program of study. If you obtain prior ISSO authorization for withdrawal or leave of absence, you are given a 15-day grace period that starts on the day you are no longer enrolled.  If you withdraw from classes without prior ISSO authorization, you are
+not eligible
+for a grace period and must depart the U.S. immediately.
+What can you do during your designated grace period
+Travel inside the U.S.
+Make preparations to depart the U.S. (ie. sell your bike, microwave, etc.)
+Transfer your SEVIS record to another school, if eligible.
+Apply for Optional Practical Training or Academic Training (for students – but if you were hoping to start working after graduation, you would really want to do this earlier!)
+Apply for a change to another immigration status, if eligible.
+What you cannot do during your grace period
+You cannot continue with your studies, research or employment at BU or elsewhere –
+You cannot continue working on-campus
+You cannot work off-campus without authorization
+You cannot apply for program extension (so be sure to do this before your program end, if your plan to stay at BU)
+You cannot depart the U.S. with the intent to reenter under your completed F or J program
+Classifications without a Grace Period
+H-1B Classifications
+Generally, there is no grace period associated with the H-1B status. This means that you should depart the U.S. by the end date listed on your I-797 approval notice if you will not be extending your status or moving to employment elsewhere in the US. If your employment at BU will end prior to the end date listed on your I-797 approval notice, please report this to the ISSO. You should plan to depart the U.S. by the end of your employment, despite the dates indicated on your approval notice.
+Other Immigration Statuses
+Many other statuses are date specific. If you have a date-specific U.S. entry stamp or I-94 record and do not have a grace period, you should depart the U.S. by the end date listed on your I-94 or U.S. entry stamp. Once your status expires, you must stop your academic activities.
+More information on other statuses can be found in the
+Immigration Overview
 .
-Program at a Glance
-Top 10 Online Program
-Online and On Campus
-Part-Time or Full-Time Study
-STEM Designated
-32 Credits
-8–16 Months to Completion
-17 Core Faculty
-No GRE/GMAT
-Tuition & Fees—Part-Time Study*: $28,040
-Apply Now
-Request Information
-*Based on 2024–2025 Boston University tuition and fees.
-Merit scholarship
-may reduce cost.
-Advance Your Career with a Master’s in Software Development
-As one of the only software development master’s degree programs in the United States, the MS in Software Development at BU MET is ideal for those who enjoy programming and seek to create software in an interactive process that involves multiple stakeholders. The program is open to students of all backgrounds—all you need is a bachelor’s degree in any field.
-The MSSD curriculum will provide you with a thorough understanding of the latest requirements and needs for software across diverse industries, and ensure that you are ready to deliver secure, reliable software products—as part of an agile software team or leading it.
-#4, America’s Top Online Colleges
-Newsweek
-magazine ranked Boston University’s online programs #4 in the nation in its 2023 survey.
-Learn More
-#10, Best Online Master's in Computer Information Technology Programs
-MET’s online master’s degrees in computer information technology are ranked #10 in the nation by
-U.S. News & World Report
-for 2025.
-Learn More
-Request Information
-Receive more details about your program of interest.
-Learn More
-Computer Science Career Outlook
-Top computer science careers in data science, software development, and other popular areas of IT.
-Learn more
-“Almost everything I learned during my coursework at BU has been useful at one point or another…A lot of the courses I took gave me the option to develop some sort of web application as a project, which was great exposure that I still refer back to in my current job…my professors and the coursework really did prepare me for the industry and helped me mature as a software developer.”
-—
-Diego Lopez, MS in Software Development (MET’20)
-, Software Developer at MIT Lincoln Laboratory
-What Is My Career Outlook as a Graduate of This Program?
-955,188
-Total number of US Jobs
-103,590
-Annual job openings
-+2.4%
-Annual job openings
-25%
-Projected ten-year growth in jobs
-(faster than average)
-$106.7K
-Median annual salary
-Common job titles include:
-Software Engineer
-Systems Engineer
-Data Engineer
-Software Developer
-Solutions Architect
-Employers seek expertise in:
-Python
-Software engineering
-Java
-SQL
-Software development
-Source: Lightcast, U.S. Bureau of Labor Statistics
-Meet An Advisor
-Why BU’s Software Development is Ranked in the Top 10
-Active Learning Environment:
-BU MET’s Software Development courses ensure you get the attention you need, while introducing case studies and real-world projects that ensure you gain in-depth, practical experience with the latest technologies.
-Career Counseling:
-MET’s Career Development office
-and
-BU’s Center for Career Development
-offer a variety of job-hunting resources, including one-on-one career counseling by appointment for both online and on-campus students.
-Engaged Faculty:
-In BU MET’s Software Development master’s program, you benefit from working closely with highly qualified faculty and industry leaders who are involved in research projects in areas such as novel internet architectures, smartphone applications, information assurance, biomedical informatics, and many other areas.
-Extensive Network:
-Study software development alongside fellow professionals from all backgrounds, learn from faculty who have valuable IT contacts across several sectors, and benefit from an alumni community with strong professional connections.
-STEM Designated:
-Eligible graduates on student visas have access to an Optional Practical Training (OPT) of 12 months and an extension for up to 24 additional months.
-15:1 Class Ratio:
-Enjoy an exceptional student-to-instructor ratio, ensuring close interaction with faculty and access to support.
-Valuable Resources:
-Make use of Boston University’s extensive resources, including the
+Completing your program, employment or activity
+Grace Periods
+Transferring from BU
+Preparing for your departure
+Forms
+End of Employment Notification
+Helpful Links
+Payroll Office (BU Employees)
+Student Employment Office
+Office of the University Registrar
+University Service Center
+Student Central
+Office of Housing
+Office of Housing Resources, Medical Campus
+Welcome, New Students!
+Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
+Photo by Jackie Riccardi
+ISSO News
+Immigration-Related Activity Under the Second Trump Administration
+January 21, 2025
+Spring 2025 Workshops
+December 4, 2024
+Spring 2025 Student Reminders
+December 4, 2024
+USCIS Premium Processing Fee Increases
+January 3, 2024
+ISSOPortal is Live for Student Immigration Processing!
+November 27, 2023
+BU Global News
+Dispatches from Abroad: International Students on Life at Home
+April 17, 2020
+Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
+April 17, 2020
+Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
+April 17, 2020
+Virtual Coffee & Conversation: Adapting to a New Reality
+March 20, 2020
+Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
+March 13, 2020
+Boston University
+Global Programs
+Study Abroad
+International Students & Scholars Office
+Center for English Language & Orientation Programs
+Notice of NondiscriminationTransferring from Boston University
+If you have completed your academic activities at Boston University and wish to transfer to a different school/program, you must contact an ISSO advisor and follow proper transfer procedures before attending the new school/program.
+Students
+F-1 Status
+BU students in F-1 status who have completed a program and will start a new program of study at a new school, or those who are wishing to transfer from BU to another school should request that ISSO transfer their SEVIS record. Your SEVIS record should be transferred to the new school prior to starting a program at the new school.  If you are withdrawing from BU mid-program, the SEVIS transfer should take place after you complete your current semester at BU and prior to when you will matriculate at the new school.  If you have completed your program of study at BU, you must process a SEVIS Transfer Out prior to the end of your 60-day grace period.
+To transfer your SEVIS record, please follow these steps:
+You must be fully admitted to the new school in order for ISSO to transfer your SEVIS record.
+Log into the
+ISSOPortal.
+Go to the Request Center and click the icon for
+SEVIS Transfer Out
+.
+Follow the instructions in the request to complete the questionnaire, upload required documents and confirm your understanding of conditions to transfer your SEVIS record to a new school.
+Monitor the status of your request through the Request Center in the ISSOPortal.
+Your ISSO Advisor will review your request and transfer your SEVIS record within 10 business days. You will receive an email to notify you of the completed transfer.
+By transferring your SEVIS record, you do not have to pay the SEVIS fee again, and your SEVIS ID number remains the same.
+Finally, you should contact the new school to obtain a new I-20 for your new program and follow any instructions that they provide to complete the SEVIS transfer process.
+F-1 Student Transfer Tips:
+You must begin your program at the new school on the new available start date within 5 months of your date of last attendance at BU or your OPT end date.
+Your SEVIS record must be transferred to the new school by the end of your 60-day grace period.
+To ensure that ISSO transfers your record to the correct new school, be sure to enter the SEVIS School Code for the new school on the SEVIS Transfer Out Request in the
+ISSOPortal
+.  The school code will consist of a series of letters and numbers beginning with 214XXX.
+On the date your SEVIS record is transferred, all employment authorization associated with your degree program at BU will end.  This includes on-campus employment/CPT if you are an enrolled student or OPT if you have already finished your program.
+Once your SEVIS record is transferred to the new school, you will work with them for all of your immigration sponsorship questions.  If you are traveling internationally between after your SEVIS record is transferred from BU but before you start your program at the new school, you should contact them to request a “Transfer Pending” I-20.  You should not use your BU I-20 when you try to enter the US next.
+If you are withdrawing from BU prior to completing your degree program, you should contact the
+University Service Center
+(undergraduate students) or your academic department (Graduate students) to finalize your withdrawal.
+J-1 Status
+You may transfer your SEVIS record to a different J-1 Exchange Visitor Program as long as you are in valid status and you remain in the “student” category. Note that you cannot transfer as a non-degree to a degree student. You must transfer your SEVIS record by the end date of your DS-2019 or by the end of your 30-day grace period after progam completion.
+To transfer your SEVIS record, please follow these steps:
+You must be fully admitted to the new school in order for ISSO to transfer your SEVIS record.
+Log into the
+ISSOPortal.
+Go to the Request Center and click the icon for
+SEVIS Transfer Out EV
+.
+Follow the instructions in the request to complete the questionnaire, upload required documents and confirm your understanding of conditions to transfer your SEVIS record to a new school.
+Monitor the status of your request through the Request Center in the ISSOPortal.
+Your ISSO Advisor will review your request and transfer your SEVIS record within 10 business days. You will receive an email to notify you of the completed transfer.
+By transferring your SEVIS record, you do not have to pay the SEVIS fee again, and your SEVIS ID number remains the same.
+Finally, you should contact the new school to obtain a new DS-2019 for your new program and follow any instructions that they provide to complete the SEVIS transfer process.
+Once your transfer is approved by the ISSO, it’s your responsibility to make sure you receive a new DS-2019 from the new J-1 Exchange Visitor Program sponsor to complete the transfer—before your Boston University DS-2019 expires and by the start of your new program.
+Scholars
+J-1 Scholar Status
+If you wish to continue your academic objective under the J-1 sponsorship of another program sponsor in the US, you may be eligible to transfer your SEVIS record to the new program sponsor, provided:
+The new program sponsor is approved by the Department of State to sponsor scholars in the same J-1 category (Research Scholar, Professor, Short-Term Scholar, and Specialist).
+The transfer is consistent with the goals of the original program objective at Boston University.
+You are currently in valid program status.
+The transfer will not extend the stay beyond the permissible time for your category.
+The transfer occurs before the end date on your DS-2019.
+Please contact your ISSO advisor if you are considering transferring to another program.
+H-1B Status
+If you plan to leave Boston University and begin working for another employer at any point, it’s important that you consult with your new employer, the ISSO, and/or an immigration attorney to be sure you handle the transition in a way that doesn’t violate your immigration status. For example, if the new employer will petition for H-1B approval for the new job, you must continue working at Boston University until the new petition is submitted. Timing and proper procedures are vital to maintaining your status.
+Transferring with Employment, Training, or Internships
+Students Working On Campus
+Your on-campus work authorization ends once you transfer your SEVIS record to the new school.
+Students on Optional Practical Training
+If you are currently on
+Optional Practical Training
+, your work permission will become invalid once you transfer to another school’s I-20, and you will lose any unused portion of your work authorization period.
+Students on Academic Training
+If you are currently on
+Academic Training
+, your authorization will become invalid once you transfer to another J program sponsor’s DS-2019 and you must stop the training activity immediately. You should consult with the Responsible Officer of the new J program about possibilities for any future training or employment.
+Completing your program, employment or activity
+Grace Periods
+Transferring from BU
+Preparing for your departure
+Forms
+End of Employment Notification
+Helpful Links
+Payroll Office (BU Employees)
+Student Employment Office
+Office of the University Registrar
+University Service Center
+Student Central
+Office of Housing
+Office of Housing Resources, Medical Campus
+Welcome, New Students!
+Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
+Photo by Jackie Riccardi
+ISSO News
+Immigration-Related Activity Under the Second Trump Administration
+January 21, 2025
+Spring 2025 Workshops
+December 4, 2024
+Spring 2025 Student Reminders
+December 4, 2024
+USCIS Premium Processing Fee Increases
+January 3, 2024
+ISSOPortal is Live for Student Immigration Processing!
+November 27, 2023
+BU Global News
+Dispatches from Abroad: International Students on Life at Home
+April 17, 2020
+Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
+April 17, 2020
+Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
+April 17, 2020
+Virtual Coffee & Conversation: Adapting to a New Reality
+March 20, 2020
+Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
+March 13, 2020
+Boston University
+Global Programs
+Study Abroad
+International Students & Scholars Office
+Center for English Language & Orientation Programs
+Notice of NondiscriminationPreparing for your departure
+Use the following tips and timelines to organize your plans prior to graduation and departure from Boston University.
+Students
+2 semesters before expected graduation:
+File a formal application for graduation with the Registrar’s office.
+Beginning of your final semester:
+Meet with your academic advisor. Make sure you’re completing all requirements for your degree and you will be ready to graduate at the end of the semester.
+If you would like to remain in the US for work experience after graduation, you should attend an OPT employment workshop. Eligible F-1 students can work on OPT (Optional Practical Training) and J-1 students can work on Academic Training.
+If you plan to stay in the US and transfer to another school, talk to an ISSO advisor for information regarding your immigration status and the transfer-out process.
+2–3 months before graduation:
+If family and friends are visiting for the Commencement ceremony, prepare for their arrival by researching places for them to stay. If relatives and friends will need tourist visas to enter the US, remind them to apply for the visa at the U.S. embassy or consulate closest to them. You may request an invitation letter for their visa application.
+If you’re interested in staying in the United States for employment, start the job search. Check out BU’s
 Center for Career Development
-,
-Educational Resource Center
-,
-Fitness & Recreation Center
-,
-IT Help Centers
-,
-Mugar Memorial Library
-,
-Center for Antiracist Research
-,
-Howard Thurman Center for Common Ground
-,
-George Sherman Union
-,
-Rafik B. Hariri Institute for Computing and Computational Science & Engineering
-, and many others.
-Flexible Options:
-Study at the pace that works for you, evenings on campus or fully online. Courses begin fall, spring, and summer; online courses have two starts per term.
-Track Record:
-Learn from the best—BU MET’s Department of Computer Science was established in 1979 and is the longest-running computer science department BU. Over its four decades, the department has played an important role in the emergence of IT at the University and throughout the region.
-Merit Scholarships:
-US citizens and permanent residents are automatically considered during the application process and nominated based on eligibility.
-Learn more.
-Master the Tools to Excel in Software Development
-Offered through BU MET’s Department of Computer Science, the Master of Science in Software Development (MSSD) curriculum prepares graduates to take on evolving career paths in the field, dramatically improve coding capabilities while also developing a foundation for those who want to move into the management of agile development teams.
-Led by faculty with abundant industry experience, the MSSD is informed by real-world case studies and projects that meet the ubiquitous, and growing, need for new software. Through hands-on, project-based experience, students will finish the master’s program with an advanced portfolio of software projects.
-Graduates can progress into a variety of career paths in fields such as:
-Healthcare—analyzing patient data as well as managing and scheduling resources in hospitals
-Business and finance—analyzing trends through mathematical analysis for big data reduction and creating more efficient systems
-Information security—developing systems that are properly tested to reduce vulnerabilities
-Defense—developing command and control systems
-Graduate with Expertise
-Metropolitan College’s Software Development master’s degree will equip you with:
-Advanced knowledge of computer language theory, software design, as well as databases, networks, or security.
-Proficiency in algorithms, operating systems, computer language usage, software development, and the management of data, networks, or security.
-Competence sufficient to investigate continually emerging new software technologies, applications, and approaches.
-Certificate-to-Degree Pathway
-BU MET graduate certificate programs can serve as building blocks to a master’s degree. The graduate certificates in
-Information Technology
-,
-IT Project Management
-,
-Software Engineering
-, and
-Web Application Development
-each share specific courses with the master’s in Software Development program, giving you the option to take one or two certificates on your path to a master’s degree.Students currently enrolled in a graduate certificate who are interested in transitioning into a master’s degree should contact their academic advisor to declare their interest in this pathway. A new master’s degree application is not required. Connect with a graduate admissions advisor at
-csadmissions@bu.edu
-to learn more about this option.
-Master’s in Software Development Curriculum
-A total of 32 credits is required.
-Core Courses
-(Five courses/20 credits)
-MET CS 521
-Information Structures with Python
-Sprg  ‘25
-HUB
-This course covers the concepts of the object-oriented approach to software design and development using Python. It includes a detailed discussion of programming concepts starting with the fundamentals of data types, control structures methods, classes, arrays and strings, and proceeding to advanced topics such as inheritance and polymorphism, creating user interfaces, exceptions and streams. Upon completion of this course students will be able to apply software engineering principles to design and implement Python applications that can be used in with analytics and big data. Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Creativity/Innovation, Critical Thinking.
-Prerequisite: Programming experience in any language. Or Instructor's consent.  [ 4 cr. ]
-BU Hub
-Learn More
-Creativity/Innovation
-Critical Thinking
-Quantitative Reasoning II
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Lu
-MUG 205
-M
-6:00 pm – 8:45 pm
-A2
-IND
-Mohan
-CAS 426
-T
-6:00 pm – 8:45 pm
-A3
-IND
-Pinsky
-STH B20
-W
-8:00 am – 10:45 am
-O1
-IND
-Zhang
-ARR
-12:00 am – 12:00 am
-MET CS 526
-Data Structures and Algorithms
-Sprg  ‘25
-This course covers and relates fundamental components of programs. Students use various data structures to solve computational problems, and implement data structures using a high-level programming language. Algorithms are created, decomposed, and expressed as pseudocode. The running time of various algorithms and their computational complexity are analyzed. Prerequisite: MET CS300 and either MET CS520 or MET CS521, or instructor's consent.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Lee
-CAS 228
-T
-6:00 pm – 8:45 pm
-O1
-IND
-Burstein
-ARR
-12:00 am – 12:00 am
-O2
-IND
-Burstein
-ARR
-12:00 am – 12:00 am
-MET CS 622
-Advanced Programming Techniques
-Sprg  ‘25
-HUB
-Polymorphism, containers, libraries, method specifications, large-scale code management, use of exceptions, concurrent programming, functional programming, programming tests. Java will be used to illustrate these concepts. Students will implement a project or projects of their own choosing, in Java, since some concepts are expressible only in Java. Prerequisite: MET CS 342 or equivalent knowledge of Java. Or MET CS 521 and MET CS 526. Or instructor's consent. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Creativity/Innovation, Critical Thinking.  [ 4 cr. ]
-BU Hub
-Learn More
-Creativity/Innovation
-Critical Thinking
-Quantitative Reasoning II
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Rawassizadeh
-KCB 102
-W
-6:00 pm – 8:45 pm
-O1
-IND
-Rawassizadeh
-ARR
-12:00 am – 12:00 am
-MET CS 665
-Software Design and Patterns
-Sprg  ‘25
-Graduate Prerequisites: (METCS341 or METCS342 and METCS565) or consent of the instructor - Software design principles, the object-oriented paradigm, unified modeling language; creational, structural, and behavioral design patterns; OO analysis and design; implementation of semester project. Laboratory course. Prereq: (MET CS 526 or MET CS 622) and one of the following (MET CS 341, MET CS 342, MET CS 520, or MET CS 521). Or instructor's consent.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Orsini
-PSY B51
-R
-6:00 pm – 8:45 pm
-O2
-IND
-Kalathur
-ARR
-12:00 am – 12:00 am
-Plus one of the following:
-MET CS 673
-Software Engineering
-Sprg  ‘25
-HUB
-Undergraduate Prerequisites: MET CS342 and at least one 500-level computer programming-intensive sc ience course (or instructor's consent). MET CS 564 or MET CS 565 are r ecommended. - Overview of techniques and tools to develop high quality software. Topics include software development life cycle such as Agile and DevOps, requirements analysis, software design, programming techniques, refactoring, testing, as well as software management issues. This course features a semester-long group project where students will design and develop a real world software system in groups using Agile methodology and various SE tools, including UML tools, project management tools, programming frameworks, unit and system testing tools , integration tools and version control tools.
-Prereq: This is a capstone course to be taken after at least two programming intensive courses toward the end of a program of study. Familiarity with OO design concepts and proficiency in at least one high-level programming language is required. Or, Instructor's consent. Familiarity with web or mobile application development preferred.
-Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Oral and/or Signed Communication, Teamwork/Collaboration.  [ 4 cr. ]
-BU Hub
-Learn More
-Digital/Multimedia Expression
-Oral and/or Signed Communication
-Teamwork/Collaboration
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Czik
-CAS B06B
-W
-6:00 pm – 8:45 pm
-MET CS 682
-Information Systems Analysis and Design
-Sprg  ‘25
-Undergraduate Prerequisites: Basic programming knowledge or instructor's consent. - Object-oriented methods of information systems analysis and design for organizations with data- processing needs. System feasibility; requirements analysis; database utilization; Unified Modeling Language; software system architecture, design, and implementation, management; project control; and systems-level testing. Prerequisite: Basic programming knowledge or instructor's consent.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Guadagno
-SHA 202
-W
-6:00 pm – 8:45 pm
-A2
-IND
-Guadagno
-SHA 210
-R
-6:00 pm – 8:45 pm
-O1
-IND
-Williams
-ARR
-12:00 am – 12:00 am
-O2
-IND
-Braude
-ARR
-12:00 am – 12:00 am
-Electives
-(Three courses/12 credits)
-When choosing electives, students should make sure that they have all prerequisites required by the selected course or, instructor’s consent. Choose three from the following list:
-MET CS 601
-Web Application Development
-Sprg  ‘25
-Prerequisites: WAD 100 - Learn essential front-end development skills, starting with foundational JavaScript techniques, such as DOM manipulation and event handling, and advancing to interactive web technologies like HTML's Drag and Drop, Canvas, and SVG. You will be exposed to asynchronous operations, including AJAX, the Fetch API, and Web Workers, and learn to craft responsive designs using Flexbox, CSS Grid, and advanced CSS selectors. A comprehensive exploration of TypeScript and its main feature, static typing, and capabilities will also be covered.  The course concludes with a comprehensive dive into ReactJS, covering its core architectural concepts, component-based structure, and state management techniques  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Sheehan
-CAS 208
-R
-6:00 pm – 8:45 pm
-A2
-IND
-Sheehan
-CAS 116
-T
-6:00 pm – 8:45 pm
-MET CS 602
-Server-Side Web Development
-Sprg  ‘25
-Prerequisite: MET CS 601 Or instructor's consent. - The Server-Side Web Development course concentrates primarily on building full stack applications using the state of the art tools and frameworks. The course is divided into various modules covering in depth the following topics: NodeJS, Express, React, MongoDB, Mongoose ODM, Sequelize ORM, REST and GraphQL APIs, and application security. Along with the fundamentals underlying these technologies, several applications will be showcased as case studies. Students work with these technologies starting with simple applications and then examining real world complex applications. At the end of this course, students would have mastered developing the full stack applications using the MERN stack and related technologies.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-O1
-IND
-Kalathur
-ARR
-12:00 am – 12:00 am
-MET CS 633
-Software Quality, Testing, and Security Management
-Sprg  ‘25
-Theory and practice of security and quality assurance and testing for each step of the software development cycle. Verification vs. validation. Test case design techniques, test coverage criteria, security development and verification practices, and tools for static and dynamic analysis. Standards. Test-driven development. QA for maintenance and legacy applications. From a project management knowledge perspective, this course covers the methods, tools and techniques associated with the following processes -- Plan Quality, Perform Quality Assurance, and Perform Quality Control.   [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-O1
-IND
-ELENTUKH
-ARR
-12:00 am – 12:00 am
-MET CS 634
-Agile Software Development
-Sprg  ‘25
-This course provides students with a comprehensive overview of the principles, processes, and practices of agile software development. Students learn techniques for initiating, planning and executing on software development projects using agile methodologies. Students will obtain practical knowledge of agile development frameworks and be able to distinguish between agile and traditional project management methodologies. Students will learn how to apply agile tools and techniques in the software development lifecycle from project ideation to deployment, including establishing an agile team environment, roles and responsibilities, communication and reporting methods, and embracing change. We also leverage the guidelines outlined by the Project Management Institute for agile project development as a framework in this course.   [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Heda
-CAS 204A
-R
-6:00 pm – 8:45 pm
-MET CS 664
-Artificial Intelligence
-Sprg  ‘25
-Graduate Prerequisites: MET CS 248 and MET CS 341 or MET CS 342. - Study of the ideas and techniques that enable computers to behave intelligently. Search, constraint propagations, and reasoning. Knowledge representation, natural language, learning, question answering, inference, visual perception, and/or problem solving. Laboratory course. Prereq: MET CS 341, MET CS 342, MET CS 520 or MET CS 521. Or instructor's consent.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Kalathur
-MET 122
-M
-6:00 pm – 8:45 pm
-MET CS 669
-Database Design and Implementation for Business
-Sprg  ‘25
-Undergraduate Prerequisites: Restrictions: Only for MS CIS. This course may not be taken in conjunc tion with MET CS 469 (undergraduate) or MET CS 579. Only one of these courses can be counted towards degree requirements. - Students learn the latest relational and object-relational tools and techniques for persistent data and object modeling and management. Students gain extensive hands- on experience using Oracle or Microsoft SQL Server as they learn the Structured Query Language (SQL) and design and implement databases. Students design and implement a database system as a term project. Restrictions: This course may not be taken in conjunction with MET CS 469 (undergraduate) or MET CS 579. Only one of these courses can be counted towards degree requirements.   [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Russo
-CAS 324
-M
-6:00 pm – 8:45 pm
-A2
-IND
-Maiewski
-PSY B51
-W
-6:00 pm – 8:45 pm
-O1
-IND
-Mansur
-ARR
-12:00 am – 12:00 am
-O2
-IND
-Mansur
-ARR
-12:00 am – 12:00 am
-MET CS 677
-Data Science with Python
-Sprg  ‘25
-Students will learn major Python tools and techniques for data analysis. There are weekly assignments and mini projects on topics covered in class. These assignments will help build necessary statistical, visualization and other data science skills for effective use of data science in a variety of applications including finance, text processing, time series analysis and recommendation systems. In addition, students will choose a topic for a final project and present it on the last day of class. Prerequisite: MET CS 521 or equivalent. Or, instructor's consent.   [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Pinsky
-CAS 216
-W
-6:00 pm – 8:45 pm
-A2
-IND
-Pinsky
-HAR 222
-T
-6:00 pm – 8:45 pm
-A3
-IND
-Mohan
-CDS 264
-R
-6:00 pm – 8:45 pm
-O2
-IND
-Chertushkin
-ARR
-12:00 am – 12:00 am
-MET CS 683
-Mobile Application Development with Android
-Sprg  ‘25
-Graduate Prerequisites: (METCS342) or instructor's consent. - This course discusses the principles and issues associated with mobile application development using Android as the development platform. Topics covered will include Android application components (Activities, Services, Content Providers and Broadcast Receivers), ICC (Inter-component Communication), UI design, data storage, asynchronous processing, 2D graphics, and Android security. Students will develop their own apps in Java and/or Kotlin using Android Studio in their semester-long projects. Prior knowledge of Java programming is required. Prerequisite: MET CS 342 OR MET CS 520 OR MET CS 521. Or instructor's consent.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-O2
-IND
-Zhang
-ARR
-12:00 am – 12:00 am
-MET CS 701
-Rich Internet Application Development
-Sprg  ‘25
-Undergraduate Prerequisites: MET CS 520 or MET CS 601 and programming experience, or instructor's c onsent - The Rich Internet Application (RIA) Development course concentrates primarily on building rich client web applications in the browser for desktop and mobile devices. The course is divided into various modules covering in depth the following technologies: HTML5, AngularJS, and Ionic framework. Along with the fundamentals underlying these technologies, several applications will be showcased as case studies. Students work with these technologies starting with simple applications and then examining real world complex applications. At the end of this course, students would have mastered the latest and widely used RIA methodologies. Course Prerequisites: METCS520 (Information Structures) and METCS601 (Web Application Development), or instructor's consent.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Davoodi
-CAS 306
-W
-6:00 pm – 8:45 pm
-O2
-IND
-Winderbaum
-ARR
-12:00 am – 12:00 am
-MET CS 763
-Secure Software Development
-Sprg  ‘25
-Graduate Prerequisites: MET TC 250 or MET CS 248 or MET OM 501. - Overview of techniques and tools to develop secure software. Focus on the application security. Topics include secure software development processes, threat modeling, secure requirements and architectures, vulnerability and malware analysis using static code analysis and dynamic analysis tools, vulnerabilities in C/C   and Java programs, Crypto and secure APIs, vulnerabilities in web applications and mobile applications, and security testing. Hands-on lab and programming exercises using current tools are provided and required. Prerequisite: At least two 500- level (or above) programming-intensive computer science courses; or instructor's consent.   [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Zhang
-FLR 123
-T
-6:00 pm – 8:45 pm
-MET CS 767
-Advanced Machine Learning and Neural Networks
-Sprg  ‘25
-Graduate Prerequisites: MET CS 521; MET CS 622, MET CS 673 or MET CS 682; MET CS 677 strongly recommended; or consent of instructor. - Theories and methods for learning from data. The course covers a variety of approaches, including Supervised and Unsupervised Learning, Regression, k-means, KNN’s, Neural Nets and Deep Learning, Recurrent Neural Nets, Rule-learning, Adversarial Learning, Bayesian Learning, and Genetic Algorithms. The underpinnings are covered: perceptrons, backpropagation, attention, and transformers. Each student focuses on two of these approaches and creates a term project.  [ 4 cr. ]
-Section
-Type
-Instructor
-Location
-Days
-Times
-A1
-IND
-Chertushkin
-EPC 206
-T
-6:00 pm – 8:45 pm
-A2
-IND
-Mohan
-MET 101
-T
-9:00 am – 11:45 am
-Students interested in taking electives outside of the stated requirements should contact the Department of Computer Science for approval.
-Computer Science Faculty
-Guanglan Zhang
-Associate Professor
-Chair, Computer Science
-Scott Arena
-Master Lecturer, Computer Science
-Eric Braude
-Associate Professor
-Director of Digital Learning, Computer Science
-View All Faculty
-Lou Chitkushev
-Senior Associate Dean for Academic Affairs
-Associate Professor, Computer Science
-Director, Health Informatics & Health Sciences
-John Day
-Master Lecturer, Computer Science
-Suresh Kalathur
-Assistant Professor, Computer Science
-Director, Analytics
-Vijay Kanabar
-Associate Professor, Computer Science and Administrative Sciences
-Director, Project Management
-Jae Young Lee
-Assistant Professor, Computer Science
-Coordinator, Databases
-Eugene Pinsky
-Associate Professor of the Practice, Computer Science
-Coordinator, Software Development
-Reza Rawassizadeh
-Associate Professor, Computer Science
-Robert Schudy
-Associate Professor Emeritus, Computer Science
-Victor Shtern
-Associate Professor Emeritus, Computer Science
-Anatoly Temkin
-Assistant Professor Emeritus, Computer Science
-Shengzhi Zhang
-Associate Professor
-Associate Chair, Computer Science
-Yuting Zhang
-Assistant Professor, Computer Science
-Director, Cybersecurity
-Tanya Zlateva
-Dean, Metropolitan College & Extended Education
-Professor of the Practice, Computer Science and Education
-Education Director, Information Security, Center for Reliable Information Systems & Cyber Security
-Learn more about the Department of Computer Science
-Tuition & Financial Assistance
-Competitive Tuition
-Our part-time rates are substantially lower than those of the traditional, full-time residential programs yet provide access to the same high-quality BU education.
-Learn More
-Comprehensive Financial Assistance
-Our services include
-scholarships
-, graduate loans, and payment plans.
-Learn More
-How Much Does This Program Cost?
-BU MET programs offer the flexibility of part-time or full-time study, either on campus or online. Tuition, fees, and total program cost are determined by enrollment status. If you enroll in 1–2 courses (4–8 credits) in a semester, you are charged the
-part-time per-credit rate
-. If you enroll in 3–4 courses (12–16 credits) in a semester, you are charged the
-full-time semester rate
 .
-MS in Software Development
-(Online and On Campus)
-Enrollment Status
-Part Time
-Full Time
-Courses per Semester
-2 courses
-(8 credits)
-4 courses
-(16 credits)
-3 courses
-(12 credits)
-Time to Degree
-4 semesters
-(16 months)
-2 semesters
-(8-12 months)
-***
-3 semesters
-(12-16 months)
-***
-Tuition*
-$550-$975
-per
-credit
-**
-$33,335
-per
-semester
-$33,335
-per
-semester
-Fees per Semester*
-$60
-$478
-$478
-Total Degree Cost*
-$28,040
-$67,626
-$75,486
-*
-Based on 2024–2025 Boston University tuition & fee rates.
-**
-Cost per credit is determined by course number (100–599 = $550/credit, 600–999 = $975/credit).
-***
-Summer semester enrollment is not required for international students to maintain F-1 visa status. Enrollment in summer semester coursework will expedite completion of program and reduce total program cost.
-International students
-seeking an F-1 visa for on-campus study must enroll full time and demonstrate availability of funds to cover the
-Estimated Cost of Graduate Study
-; those who wish to study online may enroll part-time but are not eligible for a visa. Learn more about
-International Student Tuition & Fees
-.
-Questions? Please
-contact us
-to hear from an Admissions Advisor who can help you determine the best enrollment pathway. For information regarding financial aid, visit
-BU MET’s Financial Aid page
-.
-Get Started
-Please visit the BU MET
-admissions
-page for details on how to apply, financial assistance, tuition and fees, requirements for international students, and more.
-Apply Now
-What to Read Next: MET Computer Science & IT Knowledge Center
-How Long Does a Master’s in Computer Science Take to Complete—and What is the Cost?
-Why Get a Master’s Degree in Computer Science at BU MET?
-What Do My Career Options Look Like with a Master’s in Computer Science from BU’s Metropolitan College?
-Are There Different Computer Science Graduate Programs or Specializations at BU?
-News & Events
-News
-U.S. News & World Report Ranks Trio of MET Online Master’s Programs in Top 10 for 2025
-January 31st, 2025
-in:
-Academics
-,
-Business & Management
-,
-Computer Science and Information Technology
-,
-Criminal Justice
-,
-MET News
-Read More
-News
-MET Faculty Recognized for Research’s Significant Contributions to BU-wide Innovation
-November 27th, 2024
-in:
-Announcements
-,
-Artificial Intelligence
-,
-Computer Science
-,
-Data Analytics
-,
-Eric Braude
-,
-Faculty News
-,
-Jay Halfond
-,
-MET News
-,
-Reza Rawassizadeh
-Read More
-News
-With Aims to Use Data Science for Good, MSCIS Alum Makes Impact with Campus Dorm Climate Research
-August 15th, 2024
-in:
-Alumni News
-,
-Computer Science and Information Technology
-,
-Data Analytics
-,
-MET News
-,
-Student News
-Read More
-All News
-Events
-February 11th, 2025
-at:
-12:00pm - 12:45pm
-The Inside Scoop: BU MET Graduate Admissions for Domestic Students (US Citizens & Permanent US Residents)
-Details
-Events
-February 19th, 2025
-at:
-9:00am - 9:30am
-Financing your BU MET Graduate Education (for INTERNATIONAL students)
-Details
-Events
-February 19th, 2025
-at:
-1:00pm - 1:45pm
-Financing your BU MET Graduate Education (for DOMESTIC students)
-Details
-All Events
-Back to Programs
-Chat with us
-, powered by
-LiveChat
-Back to top
+1 month before leaving the US or graduating and moving:
+Contact the
+Alumni Association
+and register yourself to receive updates and establish yourself with the Boston University Alumni Community!
+Make sure your new address is updated in the StudentLink
+Scholars
+Work with your department to confirm effective last day of employment. Complete the
+End of Employment or Activity Notification
+and return it to the ISSO.
+Talk to your advisor to insure that you understand how your departure from BU will affect your immigration status:
+How long can you remain in the U.S.?
+What steps do you need to take to transition to employment elsewhere?
+if you are in J-1 status, are you subject to any associated bars or restrictions?
+Clean out your workspace and return any office equipment (e.g., keys, SecurID, laptops).
+Contact
+Human Resources
+regarding benefits status (vacation days, retirement plan, etc).
+Report your new address to
+BUWorks
+, your host department and the ISSO (you will want to get those tax forms next year!)
+Other personal matters to consider
+Use the following checklist to organize your personal matters prior to leaving BU:
+Notify your landlord or housing office that you will be vacating your apartment. Most leases require 30 days’ written notice. Check your lease for details.
+Make sure your roommates are aware of your plans.
+Call all of your utility accounts and newspaper/magazine subscriptions.
+Make arrangements with your bank to close your account(s).
+Consider what to do with your vehicle, if you have one.
+Contact health insurance, car insurance, and life insurance companies to discuss coverage options and whether to close the account(s).
+Leave a forwarding address at your local post office so they can send your mail to your new address.
+Pay any fines you may have (library, parking, etc.).
+Contact shipping or storage companies for best rates to ship/store your personal items.
+Sell miscellaneous furniture, appliances, computers, automobiles, bikes, etc., by holding a garage sale or placing the items on a website such as Craigslist or eBay. You can also donate to a local thrift shop, such as the Salvation Army or Goodwill.
+Unsubscribe from email lists you no longer need.
+Completing your program, employment or activity
+Grace Periods
+Transferring from BU
+Preparing for your departure
+Related Links
+Human Resources
+Careers
+Calendars
+Alumni
+Forms
+End of Employment Notification
+Helpful Links
+Payroll Office (BU Employees)
+Student Employment Office
+Office of the University Registrar
+University Service Center
+Student Central
+Office of Housing
+Office of Housing Resources, Medical Campus
+Welcome, New Students!
+Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
+Photo by Jackie Riccardi
+ISSO News
+Immigration-Related Activity Under the Second Trump Administration
+January 21, 2025
+Spring 2025 Workshops
+December 4, 2024
+Spring 2025 Student Reminders
+December 4, 2024
+USCIS Premium Processing Fee Increases
+January 3, 2024
+ISSOPortal is Live for Student Immigration Processing!
+November 27, 2023
+BU Global News
+Dispatches from Abroad: International Students on Life at Home
+April 17, 2020
+Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
+April 17, 2020
+Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
+April 17, 2020
+Virtual Coffee & Conversation: Adapting to a New Reality
+March 20, 2020
+Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
+March 13, 2020
+Boston University
+Global Programs
+Study Abroad
+International Students & Scholars Office
+Center for English Language & Orientation Programs
+Notice of Nondiscrimination
