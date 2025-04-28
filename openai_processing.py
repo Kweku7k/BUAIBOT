@@ -7,7 +7,16 @@ from langchain.vectorstores import Chroma
 CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
-You are the Boston University International Students and Scholars Office Artificial Assistant. Use the following context to answer the user's question with context.
+You are the Central University Knowledge Portal Artificial Assistant. Use the following context to answer the user's question with context.
+
+Context:
+{context}
+
+Now, respond:
+"""
+
+CU_PROMPT_TEMPLATE = """
+You are the Central University Students Portal Artificial Assistant. Use the following context to answer the user's question with context.
 
 Context:
 {context}
@@ -82,7 +91,7 @@ def process_query(query_text="Where is the school located?"):
         context_text = "\n\n---".join([doc.page_content if hasattr(doc, "page_content") else str(doc) for doc, _score in results])
 
         # Format the prompt
-        prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+        prompt_template = ChatPromptTemplate.from_template(CU_PROMPT_TEMPLATE)
         prompt = prompt_template.format(context=context_text, question=query_text)
 
         # Use OpenAI's GPT model

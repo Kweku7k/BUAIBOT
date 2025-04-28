@@ -1,499 +1,170 @@
-What to Expect When You Enter the U.S.
-Once you have obtained your visa, you are ready to travel to the US  Visit the
-US Customs and Border Protection website
-for details regarding preparing to enter the US and what to bring
-Bring all of your immigration documents that pertain to your status, and keep these documents with you at all times during your travel. Do not leave any of these documents in your luggage as you will need to present them for inspection at the US port of entry before you can pick up your luggage in the US
-Applying for “Admission”
-When you arrive, you will apply for official “admission” to the US in a particular immigration classification at a U.S. port of entry. A US Customs and Border Protection (USCBP) officer will examine the following documents:
-Passport (valid for at least six months beyond your date of entry to the US)
-Valid visa that reflects your intended academic activities in the U.S.
-All immigration documents [Form I-20(s) for F-1 students, Form DS-2019(s) for J-1 students and scholars, I-797B for H-1Bs, etc.]
-You may also need to present all or some of the documents required to apply for your visa:
-Letter of admission or appointment/employment from Boston University
-Proof of F or J SEVIS fee payment
-Original financial documents
-Documents as a continuing student or scholar demonstrating your valid immigration status and your continued academic activities in the U.S.
-Tips
-The USCBP officer will ask you a few questions about why you’re traveling to or returning to the U.S. You should explain that you’re traveling to BU to study, conduct research, teach, or work, as appropriate. If you are asked about the funds that will pay for your stay, answer the question and offer to show the officer your financial documents. If you are asked about your “intentions”, answer the questions and be sure to remind the officer that you intend to return home after you complete your academic activities.
-Provided you present the proper documents and the USCBP officer is satisfied with your answers, the officer will “admit” you to the U.S. in a particular visa classification. The officer will update your U.S. Department of Homeland Security entry record electronically to reflect the:
-Day you entered the U.S.
-Immigration status in which you have been admitted to the U.S.
-Expiration date of this status (“D/S” reflects duration of status for F-1s, J-1s, and their dependent family members
-or
-a specific date for all other classifications)
-ISSO recommends that throughout the duration of your stay in the U.S., each time you enter the U.S. from international travel that you retrieve the electronic I-94 record to confirm you have been accurately admitted to the U.S. in the correct status and save or print your entry information from the
-CBP website
+CENTRAL UNIVERSITY STUDENT RESOURCE PORTAL TUTORIAL
+This documentation aids students to create
+Student gmail accounts
+To create an osis account and/or reset it
+To create a vcampus account and/or reset it
+To access other student portals like pasco and sfp
+🧠
+AI Training Documentation: Central University Student Account Support Guide
+💼
+System Overview
+Students at Central University use three main platforms for academic and administrative tasks:
+Student Email
+: For communication and official notices.
+Student Portal (OSIS)
+: For academic records, results, and course registration.
+VCampus
+: For e-learning and virtual classes.
+The AI model must assist students in:
+Creating accounts
+Modifying account info
+Resetting forgotten passwords
+Accessing locked accounts
+1.
+🆕
+Student Account Creation
+Step-by-Step: Creating a New Account
+Open your browser
+(Chrome or Safari recommended).
+Go to
+https://student.central.edu.gh/
+//scroll down
+Click on
+“Create an account now”
+if you don't already have one.
+Fill in the registration form:
+Full name
+Student and personal email
+Phone number
+Password & confirm password
+Level, campus, school, department, session
+Click
+Submit
+to complete the process.
+You can now log in using your credentials.
+—> Sometime when the submit button is not working, you need to retype your password and make sure all the requirements are met (ie. the password matches, it is green, and every other field is filled)
+/click on create student email
+2.
+🔁
+Modifying Student Account Information
+How to Update Account Details:
+Visit the portal:
+https://student.central.edu.gh/login
+Log in with your student email and password.
+Navigate to
+Profile Settings
 .
-When you leave the inspection area, make certain you have all of your immigration documents in your possession.
-It’s important to enter the U.S. in the visa classification that best supports your academic activities in the U.S. In most cases, you should not enter the U.S. on a B-1/B-2 visitor status, nor in WT/WB status through the “visa waiver” program, as the visitor status does not support most academic activities and it is difficult and sometimes impossible to change your immigration status after you have entered the U.S.
-Checking Your Documents upon Re-Entry
-Each time you re-enter the U.S. from outside of North America, you will be issued an I-94 entry record with the most recent date of entry, class of admission (F-1, J-1, H-1, etc.), and expiration date. It’s important that you check this electronic I-94 carefully for errors at the port of entry. If there are errors, respectfully notify the official of the error and request a correction.
-Missing Documentation
-If a U.S. Customs and Border Protection officer determines that your documentation is incomplete when entering the U.S., you may be issued a Form I-515A and a date-specific passport stamp. These documents will grant you temporary admission to the U.S. (generally for 30 days). If you receive a Form I-515A, you must contact the ISSO immediately as additional documentation from the ISSO is often required in order to respond to the I-515A by the deadline. ISSO will guide you on what steps to take based on your specific situation and documentation from CBP. Failure to submit the proper original documentation prior to the expiration date of your passport stamp will result in the termination of both your F-1 student status and your Student and Exchange Visitor Information System (SEVIS) record.
-If you notice any errors on your passport entry stamp after you have departed the U.S. port of entry, contact the ISSO.
-Secondary Inspection
-Most F-1 or J-1 visa holders will clear U.S. immigration after your documents are reviewed by a CBP officer. However, in some cases you may be referred to another officer to verify your immigration status or for additional questioning. This is referred to as “
-secondary inspection
-”. Although a referral to secondary inspection can make you feel nervous, it does not necessarily mean you will be denied entry. Be aware that it can take a while to complete this inspection process.
-If the CBP officer has questions that can be answered by ISSO, please ask the officer if they would like to call ISSO for confirmation. During office hours, you may give the officer the number for the ISSO front desk at 617-353-3565. After hours please have the officer call the number listed in SEVIS for the PDSO.
-Applying for U.S. Visa
-Entering the U.S.
-Traveling During your Program
-Helpful Links
-Payroll Office (BU Employees)
-Student Employment Office
-Office of the University Registrar
-University Service Center
-Student Central
-Office of Housing
-Office of Housing Resources, Medical Campus
-Welcome, New Students!
-Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
-Photo by Jackie Riccardi
-ISSO News
-Immigration-Related Activity Under the Second Trump Administration
-January 21, 2025
-Spring 2025 Workshops
-December 4, 2024
-Spring 2025 Student Reminders
-December 4, 2024
-USCIS Premium Processing Fee Increases
-January 3, 2024
-ISSOPortal is Live for Student Immigration Processing!
-November 27, 2023
-BU Global News
-Dispatches from Abroad: International Students on Life at Home
-April 17, 2020
-Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
-April 17, 2020
-Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
-April 17, 2020
-Virtual Coffee & Conversation: Adapting to a New Reality
-March 20, 2020
-Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
-March 13, 2020
-Boston University
-Global Programs
-Study Abroad
-International Students & Scholars Office
-Center for English Language & Orientation Programs
-Notice of NondiscriminationTraveling with a US Visa
-Many students and scholars take the opportunity to travel home—or to another country—during their time in the US. While you can make plans to depart the US at any time, you need to make certain that you have the
-appropriate documentation
-to return to the US to resume your activities. The information below will help facilitate your return to the US.
-Check Your Visa(s)
-The visa in your passport, listing your immigration status, permits you to re-enter the US. It does not grant permission to enter a third country (a country that is not the US or your home country). If you are traveling to a third country, you may need a visa to enter that country.
-Please bear in mind that the ISSO can only advise on re-entry to the US; we cannot advise on visas going to third countries. We recommend that you contact the embassy or consulate of the country you will be traveling to and ask for specific information about visa requirements for citizens from your home country.
-Returning from Canada, Mexico, or Adjacent Islands with an Expired US Visa
-F and J nonimmigrants who travel to Canada, Mexico, or the adjacent islands (except for Cuba) may return to the US using an
-expired
-US visa. This rule is known as Automatic Visa Revalidation. To successfully use Automatic Visa Revalidation, travelers must have previously entered the US in a nonimmigrant visa category, and must be maintaining valid nonimmigrant status.  You can read more about Automatic Visa Revalidation on the
-Department of State website
-.  Customs and Border Protection also provides information
-on their website
+Modify information such as phone number, personal email, department, etc.
+Click
+Save Changes
 .
-For all other visa categories, Automatic Visa Revalidation does not apply. All other visa categories must have a
-valid and current
-US visa stamp in order to re-enter the US.
-If you have questions about safely re-entering the US from Canada, Mexico, or the adjacent islands using Automatic Visa Revalidation, please consult with the ISSO before you depart Boston.
-Please see the US Immigration and Customs Enforcement website for a complete list of the
-adjacent islands
+3.
+🔐
+Password Reset Instructions
+🔧
+A. Resetting Your
+Student Email Password
+Open your browser and visit
+https://student.central.edu.gh/
+Click on
+“Reset Password.”
+Enter your
+student email
+(e.g.,
+int18010252@central.edu.gh
+).
+A
+reset link
+will be sent to your
+personal email
 .
-Exceptions to the Automatic Visa Revalidation Rule
-Individuals who apply for a new visa stamp:
-If you plan to apply for a nonimmigrant visa stamp at a US embassy or consulate in a contiguous territory (Canada, Mexico, or the adjacent islands), you will not be eligible to return to the US under Automatic Visa Revalidation. Instead, you must wait for the new visa to be approved and then return to the US under the new visa. If your visa application is denied, you will be required to travel elsewhere (most likely to your home country) to apply again for a US visa stamp before you may return to the US.
-Scholars in H-1B status can use Automatic Visa Revalidation for travel to Canada, Mexico, and US territories
-only:
-H-1B employees with expired visas should pay particular attention to their travel itineraries to ensure that they will travel only to Canada, Mexico, or a
-US-owned territory
-. H-1B employees cannot use Automatic Visa Revalidation for travel to any other location.
-Citizens of certain countries are not eligible for Automatic Visa Revalidation:
-If you are a citizen of a country identified by the Department of State as a state that sponsors terrorism, you are not eligible for Automatic Visa Revalidation. Currently, this list includes Iran, North Korea, Sudan, Syria, and Cuba. The countries included on this list are subject to change, and you can find an updated list on the
-Department of State’s website
+Open your personal email inbox (or
+check your spam folder
+).
+Click on the reset link to create a new password.
+🔧
+B. Resetting Your
+OSIS Portal Password
+Open your browser and go to:
+Student Dashboard:
+https://forms.central.edu.gh/student/dashboard
+OR directly to OSIS login:
+https://osissip.osis.online/auth/login
+Click on
+“Forgotten Password”
 .
-Citizens of Mexico and adjacent islands:
-Citizens of Mexico and countries of the adjacent islands may or may not be eligible for Automatic Visa Revalidation when traveling to their home country, depending on their individual circumstances. Citizens of Mexico and the adjacent islands
-can
-use Automatic Visa Revalidation when traveling to Canada.
-Maintaining Status during Cruise Trips
-If you plan to take a cruise, please bear in mind that the cruise ship may cross international borders. You should make certain to carry the same
-appropriate documentation
-as if you were returning from an international trip. Although some cruise companies require only copies of immigration documents, US immigration policies requires that you present original documents.
-Applying for U.S. Visa
-Entering the U.S.
-Traveling During your Program
-Current Travel Advisory
-Helpful Links
-Payroll Office (BU Employees)
-Student Employment Office
-Office of the University Registrar
-University Service Center
-Student Central
-Office of Housing
-Office of Housing Resources, Medical Campus
-Welcome, New Students!
-Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
-Photo by Jackie Riccardi
-ISSO News
-Immigration-Related Activity Under the Second Trump Administration
-January 21, 2025
-Spring 2025 Workshops
-December 4, 2024
-Spring 2025 Student Reminders
-December 4, 2024
-USCIS Premium Processing Fee Increases
-January 3, 2024
-ISSOPortal is Live for Student Immigration Processing!
-November 27, 2023
-BU Global News
-Dispatches from Abroad: International Students on Life at Home
-April 17, 2020
-Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
-April 17, 2020
-Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
-April 17, 2020
-Virtual Coffee & Conversation: Adapting to a New Reality
-March 20, 2020
-Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
-March 13, 2020
-Boston University
-Global Programs
-Study Abroad
-International Students & Scholars Office
-Center for English Language & Orientation Programs
-Notice of NondiscriminationExiting BU
-While we hate to see you go and hope you have had a great experience here at BU, at some point, we expect that you will be moving on to other things.  Before you leave, it is important to have an understanding, not only about what you may need to take care of before you transition away from BU, but also what you may or may not be able to do once your program at BU ends.
-Whether you plan to return to your home country, transfer to another degree program or move on to employment elsewhere in the U.S., you want to insure that you do this without effecting your immigration status in the U.S.  Perhaps you you just want to take some time for some personal travel within the U.S. or you have set up some job interviews after graduation and you are concerned about the timing or whether and not you can stay here while you are seeking employment.
-We recommend that you review this information carefully so that you’ll be able to plan the next step in your academic or professional career.  Please note that you should plan well in advance, as not all transitions can happen quickly and some require more time.
-Whatever it is you are doing and wherever you are going, we wish you the best of luck!
-Completing your program, employment or activity
-Grace Periods
-Transferring from BU
-Preparing for your departure
-Forms
-End of Employment Notification
-Helpful Links
-Payroll Office (BU Employees)
-Student Employment Office
-Office of the University Registrar
-University Service Center
-Student Central
-Office of Housing
-Office of Housing Resources, Medical Campus
-Welcome, New Students!
-Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
-Photo by Jackie Riccardi
-ISSO News
-Immigration-Related Activity Under the Second Trump Administration
-January 21, 2025
-Spring 2025 Workshops
-December 4, 2024
-Spring 2025 Student Reminders
-December 4, 2024
-USCIS Premium Processing Fee Increases
-January 3, 2024
-ISSOPortal is Live for Student Immigration Processing!
-November 27, 2023
-BU Global News
-Dispatches from Abroad: International Students on Life at Home
-April 17, 2020
-Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
-April 17, 2020
-Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
-April 17, 2020
-Virtual Coffee & Conversation: Adapting to a New Reality
-March 20, 2020
-Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
-March 13, 2020
-Boston University
-Global Programs
-Study Abroad
-International Students & Scholars Office
-Center for English Language & Orientation Programs
-Notice of NondiscriminationGrace Periods
-Depending on your current immigration classification, you may be eligible to stay in the U.S. for a designated period of time after your program completion date; this is called a “grace period”. Grace periods can be helpful as they give you some extra time to prepare for the next phase of your life and to take care of certain events (e.g., transferring between schools, changing your status, starting a new appointment, or preparing to depart the US).
-It’s important to know whether your immigration classification allows for a grace period, and to be mindful of when your legal status in the U.S. will end.
-Classifications with a Grace Period
-F-1 Student Classification
-F-1 students have a grace period of 60 days. This grace period begins on the day that you complete your program, regardless of the expiration date noted on your I-20.  If you will remain in the U.S. to take advantage of your OPT benefit, your 60 day grace period will begin the day after your OPT expiration.  Note that once you depart the US during the 60-day grace period, you cannot re-enter the US in F-1 status with the Form I-20 issued for the program you just completed. Therefore, it’s important to be aware of your official program end date.
-Grace periods also apply to any dependents in F-2 status.
-The 60 day grace period is NOT available to F-1 students who do not complete their program of study. If you obtain prior ISSO authorization for withdrawal or leave of absence, you are given a 15 day grace period that starts on the day you are no longer enrolled.
-If you withdraw from classes without prior ISSO authorization, you are not eligible for a grace period and must depart the U.S. immediately.
-J-1 Classification
-J-1 Exchange Visitors, regardless of category have a grace period of 30 days.  This 30 days starts on the last day of your studies, employment or other activity at BU, regardless of the end date listed on your form DS-2019.  If you will remain in the U.S. to take advantage of your Academic Training (AT) benefit, your 30 day grace period will begin the day after your AT expiration.
-Grace periods also apply to any dependents in J-2 status.
-The 30-day grace period is
-not
-available to students who do not complete their program of study. If you obtain prior ISSO authorization for withdrawal or leave of absence, you are given a 15-day grace period that starts on the day you are no longer enrolled.  If you withdraw from classes without prior ISSO authorization, you are
-not eligible
-for a grace period and must depart the U.S. immediately.
-What can you do during your designated grace period
-Travel inside the U.S.
-Make preparations to depart the U.S. (ie. sell your bike, microwave, etc.)
-Transfer your SEVIS record to another school, if eligible.
-Apply for Optional Practical Training or Academic Training (for students – but if you were hoping to start working after graduation, you would really want to do this earlier!)
-Apply for a change to another immigration status, if eligible.
-What you cannot do during your grace period
-You cannot continue with your studies, research or employment at BU or elsewhere –
-You cannot continue working on-campus
-You cannot work off-campus without authorization
-You cannot apply for program extension (so be sure to do this before your program end, if your plan to stay at BU)
-You cannot depart the U.S. with the intent to reenter under your completed F or J program
-Classifications without a Grace Period
-H-1B Classifications
-Generally, there is no grace period associated with the H-1B status. This means that you should depart the U.S. by the end date listed on your I-797 approval notice if you will not be extending your status or moving to employment elsewhere in the US. If your employment at BU will end prior to the end date listed on your I-797 approval notice, please report this to the ISSO. You should plan to depart the U.S. by the end of your employment, despite the dates indicated on your approval notice.
-Other Immigration Statuses
-Many other statuses are date specific. If you have a date-specific U.S. entry stamp or I-94 record and do not have a grace period, you should depart the U.S. by the end date listed on your I-94 or U.S. entry stamp. Once your status expires, you must stop your academic activities.
-More information on other statuses can be found in the
-Immigration Overview
+On the new page, enter your
+student email
 .
-Completing your program, employment or activity
-Grace Periods
-Transferring from BU
-Preparing for your departure
-Forms
-End of Employment Notification
-Helpful Links
-Payroll Office (BU Employees)
-Student Employment Office
-Office of the University Registrar
-University Service Center
-Student Central
-Office of Housing
-Office of Housing Resources, Medical Campus
-Welcome, New Students!
-Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
-Photo by Jackie Riccardi
-ISSO News
-Immigration-Related Activity Under the Second Trump Administration
-January 21, 2025
-Spring 2025 Workshops
-December 4, 2024
-Spring 2025 Student Reminders
-December 4, 2024
-USCIS Premium Processing Fee Increases
-January 3, 2024
-ISSOPortal is Live for Student Immigration Processing!
-November 27, 2023
-BU Global News
-Dispatches from Abroad: International Students on Life at Home
-April 17, 2020
-Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
-April 17, 2020
-Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
-April 17, 2020
-Virtual Coffee & Conversation: Adapting to a New Reality
-March 20, 2020
-Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
-March 13, 2020
-Boston University
-Global Programs
-Study Abroad
-International Students & Scholars Office
-Center for English Language & Orientation Programs
-Notice of NondiscriminationTransferring from Boston University
-If you have completed your academic activities at Boston University and wish to transfer to a different school/program, you must contact an ISSO advisor and follow proper transfer procedures before attending the new school/program.
-Students
-F-1 Status
-BU students in F-1 status who have completed a program and will start a new program of study at a new school, or those who are wishing to transfer from BU to another school should request that ISSO transfer their SEVIS record. Your SEVIS record should be transferred to the new school prior to starting a program at the new school.  If you are withdrawing from BU mid-program, the SEVIS transfer should take place after you complete your current semester at BU and prior to when you will matriculate at the new school.  If you have completed your program of study at BU, you must process a SEVIS Transfer Out prior to the end of your 60-day grace period.
-To transfer your SEVIS record, please follow these steps:
-You must be fully admitted to the new school in order for ISSO to transfer your SEVIS record.
-Log into the
-ISSOPortal.
-Go to the Request Center and click the icon for
-SEVIS Transfer Out
+Complete the
+CAPTCHA
+to verify you're not a robot.
+Click
+Reset
 .
-Follow the instructions in the request to complete the questionnaire, upload required documents and confirm your understanding of conditions to transfer your SEVIS record to a new school.
-Monitor the status of your request through the Request Center in the ISSOPortal.
-Your ISSO Advisor will review your request and transfer your SEVIS record within 10 business days. You will receive an email to notify you of the completed transfer.
-By transferring your SEVIS record, you do not have to pay the SEVIS fee again, and your SEVIS ID number remains the same.
-Finally, you should contact the new school to obtain a new I-20 for your new program and follow any instructions that they provide to complete the SEVIS transfer process.
-F-1 Student Transfer Tips:
-You must begin your program at the new school on the new available start date within 5 months of your date of last attendance at BU or your OPT end date.
-Your SEVIS record must be transferred to the new school by the end of your 60-day grace period.
-To ensure that ISSO transfers your record to the correct new school, be sure to enter the SEVIS School Code for the new school on the SEVIS Transfer Out Request in the
-ISSOPortal
-.  The school code will consist of a series of letters and numbers beginning with 214XXX.
-On the date your SEVIS record is transferred, all employment authorization associated with your degree program at BU will end.  This includes on-campus employment/CPT if you are an enrolled student or OPT if you have already finished your program.
-Once your SEVIS record is transferred to the new school, you will work with them for all of your immigration sponsorship questions.  If you are traveling internationally between after your SEVIS record is transferred from BU but before you start your program at the new school, you should contact them to request a “Transfer Pending” I-20.  You should not use your BU I-20 when you try to enter the US next.
-If you are withdrawing from BU prior to completing your degree program, you should contact the
-University Service Center
-(undergraduate students) or your academic department (Graduate students) to finalize your withdrawal.
-J-1 Status
-You may transfer your SEVIS record to a different J-1 Exchange Visitor Program as long as you are in valid status and you remain in the “student” category. Note that you cannot transfer as a non-degree to a degree student. You must transfer your SEVIS record by the end date of your DS-2019 or by the end of your 30-day grace period after progam completion.
-To transfer your SEVIS record, please follow these steps:
-You must be fully admitted to the new school in order for ISSO to transfer your SEVIS record.
-Log into the
-ISSOPortal.
-Go to the Request Center and click the icon for
-SEVIS Transfer Out EV
+A reset link will be sent to your
+student email
 .
-Follow the instructions in the request to complete the questionnaire, upload required documents and confirm your understanding of conditions to transfer your SEVIS record to a new school.
-Monitor the status of your request through the Request Center in the ISSOPortal.
-Your ISSO Advisor will review your request and transfer your SEVIS record within 10 business days. You will receive an email to notify you of the completed transfer.
-By transferring your SEVIS record, you do not have to pay the SEVIS fee again, and your SEVIS ID number remains the same.
-Finally, you should contact the new school to obtain a new DS-2019 for your new program and follow any instructions that they provide to complete the SEVIS transfer process.
-Once your transfer is approved by the ISSO, it’s your responsibility to make sure you receive a new DS-2019 from the new J-1 Exchange Visitor Program sponsor to complete the transfer—before your Boston University DS-2019 expires and by the start of your new program.
-Scholars
-J-1 Scholar Status
-If you wish to continue your academic objective under the J-1 sponsorship of another program sponsor in the US, you may be eligible to transfer your SEVIS record to the new program sponsor, provided:
-The new program sponsor is approved by the Department of State to sponsor scholars in the same J-1 category (Research Scholar, Professor, Short-Term Scholar, and Specialist).
-The transfer is consistent with the goals of the original program objective at Boston University.
-You are currently in valid program status.
-The transfer will not extend the stay beyond the permissible time for your category.
-The transfer occurs before the end date on your DS-2019.
-Please contact your ISSO advisor if you are considering transferring to another program.
-H-1B Status
-If you plan to leave Boston University and begin working for another employer at any point, it’s important that you consult with your new employer, the ISSO, and/or an immigration attorney to be sure you handle the transition in a way that doesn’t violate your immigration status. For example, if the new employer will petition for H-1B approval for the new job, you must continue working at Boston University until the new petition is submitted. Timing and proper procedures are vital to maintaining your status.
-Transferring with Employment, Training, or Internships
-Students Working On Campus
-Your on-campus work authorization ends once you transfer your SEVIS record to the new school.
-Students on Optional Practical Training
-If you are currently on
-Optional Practical Training
-, your work permission will become invalid once you transfer to another school’s I-20, and you will lose any unused portion of your work authorization period.
-Students on Academic Training
-If you are currently on
-Academic Training
-, your authorization will become invalid once you transfer to another J program sponsor’s DS-2019 and you must stop the training activity immediately. You should consult with the Responsible Officer of the new J program about possibilities for any future training or employment.
-Completing your program, employment or activity
-Grace Periods
-Transferring from BU
-Preparing for your departure
-Forms
-End of Employment Notification
-Helpful Links
-Payroll Office (BU Employees)
-Student Employment Office
-Office of the University Registrar
-University Service Center
-Student Central
-Office of Housing
-Office of Housing Resources, Medical Campus
-Welcome, New Students!
-Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
-Photo by Jackie Riccardi
-ISSO News
-Immigration-Related Activity Under the Second Trump Administration
-January 21, 2025
-Spring 2025 Workshops
-December 4, 2024
-Spring 2025 Student Reminders
-December 4, 2024
-USCIS Premium Processing Fee Increases
-January 3, 2024
-ISSOPortal is Live for Student Immigration Processing!
-November 27, 2023
-BU Global News
-Dispatches from Abroad: International Students on Life at Home
-April 17, 2020
-Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
-April 17, 2020
-Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
-April 17, 2020
-Virtual Coffee & Conversation: Adapting to a New Reality
-March 20, 2020
-Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
-March 13, 2020
-Boston University
-Global Programs
-Study Abroad
-International Students & Scholars Office
-Center for English Language & Orientation Programs
-Notice of NondiscriminationPreparing for your departure
-Use the following tips and timelines to organize your plans prior to graduation and departure from Boston University.
-Students
-2 semesters before expected graduation:
-File a formal application for graduation with the Registrar’s office.
-Beginning of your final semester:
-Meet with your academic advisor. Make sure you’re completing all requirements for your degree and you will be ready to graduate at the end of the semester.
-If you would like to remain in the US for work experience after graduation, you should attend an OPT employment workshop. Eligible F-1 students can work on OPT (Optional Practical Training) and J-1 students can work on Academic Training.
-If you plan to stay in the US and transfer to another school, talk to an ISSO advisor for information regarding your immigration status and the transfer-out process.
-2–3 months before graduation:
-If family and friends are visiting for the Commencement ceremony, prepare for their arrival by researching places for them to stay. If relatives and friends will need tourist visas to enter the US, remind them to apply for the visa at the U.S. embassy or consulate closest to them. You may request an invitation letter for their visa application.
-If you’re interested in staying in the United States for employment, start the job search. Check out BU’s
-Center for Career Development
+If it's not in your inbox, check the
+spam folder
 .
-1 month before leaving the US or graduating and moving:
-Contact the
-Alumni Association
-and register yourself to receive updates and establish yourself with the Boston University Alumni Community!
-Make sure your new address is updated in the StudentLink
-Scholars
-Work with your department to confirm effective last day of employment. Complete the
-End of Employment or Activity Notification
-and return it to the ISSO.
-Talk to your advisor to insure that you understand how your departure from BU will affect your immigration status:
-How long can you remain in the U.S.?
-What steps do you need to take to transition to employment elsewhere?
-if you are in J-1 status, are you subject to any associated bars or restrictions?
-Clean out your workspace and return any office equipment (e.g., keys, SecurID, laptops).
-Contact
-Human Resources
-regarding benefits status (vacation days, retirement plan, etc).
-Report your new address to
-BUWorks
-, your host department and the ISSO (you will want to get those tax forms next year!)
-Other personal matters to consider
-Use the following checklist to organize your personal matters prior to leaving BU:
-Notify your landlord or housing office that you will be vacating your apartment. Most leases require 30 days’ written notice. Check your lease for details.
-Make sure your roommates are aware of your plans.
-Call all of your utility accounts and newspaper/magazine subscriptions.
-Make arrangements with your bank to close your account(s).
-Consider what to do with your vehicle, if you have one.
-Contact health insurance, car insurance, and life insurance companies to discuss coverage options and whether to close the account(s).
-Leave a forwarding address at your local post office so they can send your mail to your new address.
-Pay any fines you may have (library, parking, etc.).
-Contact shipping or storage companies for best rates to ship/store your personal items.
-Sell miscellaneous furniture, appliances, computers, automobiles, bikes, etc., by holding a garage sale or placing the items on a website such as Craigslist or eBay. You can also donate to a local thrift shop, such as the Salvation Army or Goodwill.
-Unsubscribe from email lists you no longer need.
-Completing your program, employment or activity
-Grace Periods
-Transferring from BU
-Preparing for your departure
-Related Links
-Human Resources
-Careers
-Calendars
-Alumni
-Forms
-End of Employment Notification
-Helpful Links
-Payroll Office (BU Employees)
-Student Employment Office
-Office of the University Registrar
-University Service Center
-Student Central
-Office of Housing
-Office of Housing Resources, Medical Campus
-Welcome, New Students!
-Riho Imada (from left) and Akari Noguchi, both students at the Center for English Language and Orientation Programs, and Andrew Burwash (CAS'18) at the International Student Reception, held September 4 at the Trustee Ballroom.
-Photo by Jackie Riccardi
-ISSO News
-Immigration-Related Activity Under the Second Trump Administration
-January 21, 2025
-Spring 2025 Workshops
-December 4, 2024
-Spring 2025 Student Reminders
-December 4, 2024
-USCIS Premium Processing Fee Increases
-January 3, 2024
-ISSOPortal is Live for Student Immigration Processing!
-November 27, 2023
-BU Global News
-Dispatches from Abroad: International Students on Life at Home
-April 17, 2020
-Study Abroad Program Directors on Coping with Coronavirus, Far from Boston
-April 17, 2020
-Frederick S. Pardee Center for the Study of the Longer-Range Future New Video Series “The World After Coronavirus,” (#WorldAfterCorona)
-April 17, 2020
-Virtual Coffee & Conversation: Adapting to a New Reality
-March 20, 2020
-Updated: BU Moves All Classes Online Due to Coronavirus — Questions and Answers
-March 13, 2020
-Boston University
-Global Programs
-Study Abroad
-International Students & Scholars Office
-Center for English Language & Orientation Programs
-Notice of Nondiscrimination
+Open the email, click on the reset link, and follow the steps to set your new OSIS password.
+After resetting, you'll be redirected to your dashboard.
+🔧
+C. Resetting Your
+VCampus Password
+Go to the VCampus login page (usually linked from student portal).
+Log in using:
+Username
+: Your
+Index Number
+(e.g.,
+int18010252
+)
+Password
+: Default is
+"Central@123"
+if you've never logged in.
+Click on
+“Forgot Password.”
+A reset link will be sent to your
+student email
+.
+If not found in the inbox,
+check your spam folder
+.
+Click on the reset link in your email.
+Enter a new password and click
+“Save Changes.”
+4.
+🚫
+Troubleshooting Login Issues
+Common Issues & Solutions:
+Incorrect Password
+: Follow the reset steps.
+Didn’t Receive Reset Email
+: Check spam or try resending the request.
+Email Doesn’t Exist/Error
+: Make sure you're entering the
+correct format
+of the student email (e.g.,
+int18010252@central.edu.gh
+).
+Locked Out
+: Wait a few minutes and try again. If locked for too long, contact support.
+🆘
+Contact Support
+If the AI assistant is unable to help, direct students to contact IT Support:
+Email
+:
+support@central.edu.gh
+Visit
+: IT Help Desk on Campus
+🧠
+Notes for AI Training
+When training the AI model, ensure it can:
+Recognize different platforms (Email vs OSIS vs VCampus)
+Ask the user clarifying questions (e.g., "Which platform are you trying to access?")
+Guide through precise steps with URLs
+Offer fallback options like spam folder checks or IT support contact
+Detect and prevent confusion between personal and student email usage
