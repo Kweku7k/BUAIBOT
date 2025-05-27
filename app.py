@@ -1,61 +1,105 @@
-import pprint
-from flask import Flask,render_template,request
-from create_db_hg import generate_data_store
-from openai_processing import process_query
-from scrape import clean_body_content, extract_body_content, scrape_website
+import getpass
+import bs4
+from flask import Flask, request
+from langchain import hub
+from langchain_community.document_loaders import WebBaseLoader
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langgraph.graph import START, StateGraph
+from typing_extensions import List, TypedDict
+import os
+from langchain_community.document_loaders import PlaywrightURLLoader
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from flask_cors import CORS  # Add this import
+
 
 app=Flask(__name__)
 CORS(app)
 
-@app.route('/',methods=['GET','POST'])
-def home():
+os.environ["GOOGLE_API_KEY"] = 'AIzaSyDwsn96yTHaNnDcVFPqFsaQNUZ4xtS_igs'
+os.environ['USER_AGENT'] = "MyRagBot/1.0 (contact@example.com)"
+# os.environ['USER_AGENT'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 
-    # Handle POST Request here
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
-    pprint.pprint(request.get_json())
+from langchain_core.vectorstores import InMemoryVectorStore
+vector_store = InMemoryVectorStore(embeddings)
 
-    # collect array of boston websites
-    websites = request.get_json()['websites']
-    clear_database = request.get_json()['clear_database']
-    
-    # call function to get the content of the websites
-    with open(f'websites.txt', 'w') as f:
-        for w in websites:
-            dom_content = scrape_website(w)
-            body_content = extract_body_content(dom_content)
-            cleaned_content = clean_body_content(body_content)
-            # write cleaned content to a file
-            f.write(cleaned_content)
-    
-    # re write into md file
-    with open(f'websites.txt', 'r') as f:
-        cleaned_content = f.read()
-        # write cleaned content to a file
-        with open(f'data/websites.md', 'w') as f:
-            f.write(cleaned_content)
-            
-    # generate data store
+# AIzaSyDwsn96yTHaNnDcVFPqFsaQNUZ4xtS_igs
 
-    generate_data_store(clear_database=clear_database)
-        
-    
-    # break content into 
-    return websites
+# Load and chunk contents of the blogpassword
+
+loader = WebBaseLoader(
+    web_paths=("https://student.central.edu.gh/Studentmodule",),
+    # bs_kwargs=dict(
+    #     parse_only=bs4.SoupStrainer(
+    #         class_=("post-content", "post-title", "post-header")
+    #     )
+    # ),
+)
+docs = loader.load()
 
 
-@app.route('/query', methods=['GET', 'POST'])
+
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+all_splits = text_splitter.split_documents(docs)
+
+# Index chunks
+_ = vector_store.add_documents(documents=all_splits)
+
+# Define prompt for question-answering
+prompt = hub.pull("rlm/rag-prompt")
+
+
+# Define state for application
+class State(TypedDict):
+    question: str
+    context: List[Document]
+    answer: str
+
+
+# Define application steps
+def retrieve(state: State):
+    retrieved_docs = vector_store.similarity_search(state["question"])
+    return {"context": retrieved_docs}
+
+
+def generate(state: State):
+    docs_content = "\n\n".join(doc.page_content for doc in state["context"])
+    messages = prompt.invoke({"question": state["question"], "context": docs_content})
+    response = llm.invoke(messages)
+    return {"answer": response.content}
+
+
+
+@app.route('/query', methods = ['POST', 'GET'])
 def query():
-    query_text = request.get_json()['query_text']
-    response = process_query(query_text)
-    print("response")
-    print(response)
-    return {"response":response}
+ 
+    question = request.json.get('question')
+    result = graph.invoke({"question": question})
+    print('result')
+    print(result)
+    response = {
+        "status": "success",
+        "data": {
+            "question": question,
+            "answer": result["answer"]
+        }
+    }
+    print('response')
+    return response
 
-@app.route('/chat', methods=['GET', 'POST'])
-def chat():
-    return render_template('index.html')
 
-if __name__ == '__main__':
-    #DEBUG is SET to TRUE. CHANGE FOR PROD
-    app.run(port=4113, host='0.0.0.0',debug=True)
+
+
+
+# Compile application and test
+graph_builder = StateGraph(State).add_sequence([retrieve, generate])
+graph_builder.add_edge(START, "retrieve")
+graph = graph_builder.compile()
+
+
+if __name__ == "__main__":
+    app.run(port=4113, host='0.0.0.0', debug=True)
