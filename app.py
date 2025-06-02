@@ -18,7 +18,7 @@ app=Flask(__name__)
 CORS(app)
 
 os.environ["GOOGLE_API_KEY"] = 'AIzaSyDwsn96yTHaNnDcVFPqFsaQNUZ4xtS_igs'
-os.environ['USER_AGENT'] = "MyRagBot/1.0 (contact@example.com)"
+os.environ['USER_AGENT'] = "MyRagBot/1.0 (ebenmills200@gmail.com)"
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
