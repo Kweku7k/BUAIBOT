@@ -78,6 +78,7 @@ def query():
  
     question = request.json.get('question')
     result = graph.invoke({"question": question})
+    
     print('result')
     print(result)
     response = {
