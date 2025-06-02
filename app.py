@@ -28,7 +28,6 @@ vector_store = InMemoryVectorStore(embeddings)
 
 # AIzaSyDwsn96yTHaNnDcVFPqFsaQNUZ4xtS_igs
 
-# Load and chunk contents of the blogpassword
 
 loader = WebBaseLoader(
     web_paths=("https://student.central.edu.gh/Studentmodule",),
@@ -67,10 +66,6 @@ def retrieve(state: State):
 
 def generate(state: State):
     docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-    # messages = [
-    # {"role": "system", "content": "youre a CU's digital agent be friendly to users and be human as possible to help students, give the direct answer and when students go off board tell them Im sorry, i dont understand you, kindly ask your question into details"},
-    # {"role": "user","content": prompt.invoke({"question": state["question"], "context": docs_content}) }
-    # ]
     messages = prompt.invoke(
         {"question": state["question"], "context": docs_content})
     response = llm.invoke(messages)
