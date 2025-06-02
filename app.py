@@ -19,7 +19,6 @@ CORS(app)
 
 os.environ["GOOGLE_API_KEY"] = 'AIzaSyDwsn96yTHaNnDcVFPqFsaQNUZ4xtS_igs'
 os.environ['USER_AGENT'] = "MyRagBot/1.0 (contact@example.com)"
-# os.environ['USER_AGENT'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
@@ -68,7 +67,12 @@ def retrieve(state: State):
 
 def generate(state: State):
     docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-    messages = prompt.invoke({"question": state["question"], "context": docs_content})
+    # messages = [
+    # {"role": "system", "content": "youre a CU's digital agent be friendly to users and be human as possible to help students, give the direct answer and when students go off board tell them Im sorry, i dont understand you, kindly ask your question into details"},
+    # {"role": "user","content": prompt.invoke({"question": state["question"], "context": docs_content}) }
+    # ]
+    messages = prompt.invoke(
+        {"question": state["question"], "context": docs_content})
     response = llm.invoke(messages)
     return {"answer": response.content}
 
